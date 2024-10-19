@@ -15,7 +15,7 @@
 * [astropy](https://www.astropy.org): for astronomy
 
 * [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data
-* 
+
 * [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases
 
 * [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net)
@@ -30,21 +30,23 @@
 
 * [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances
 
+* [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations of exoplanets
+
+* [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters and stellar activity
+
+* [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create paper-quality mass-radius diagrams based on models of planetary interiors and atmospheres
+
 * [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) for wavelet transforms
 
 * [h5py](https://www.h5py.org) to interface HDF5 binary data format
 
-## Data
-
-* 
-
 ## Exoplanets
 
-* https://spacetelescope.github.io/mast_notebooks/notebooks/Kepler/plotting_lightcurves/plotting_lightcurves.html
+* https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler10.ipynb
 
-* https://github.com/castro-gzlz/mr-plotter
+* https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler8.ipynb
 
-* https://github.com/LucaMalavolta/PyORBIT
+* https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_trappist1.ipynb
 
 * https://docs.exoplanet.codes/en/latest/tutorials/citation/
 
@@ -54,19 +56,22 @@
 
 ## Gravitational Waves
 
-* xxx
+* https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW150914.ipynb
 
 ## Stellar Astronomy
 
-* xxx
+* https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb
 
 ## Galaxy Dynamics and Cosmology
 
-* xxx
+* https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb
 
-## Physics
+## Additional Source
 
 <b>Astronomy, Special & General Relativity, Quantum Mechanics, Quantum Field Theory</b><br>
 https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
+
+<b>MAST Notebook Repository</b><br>
+https://spacetelescope.github.io/mast_notebooks/intro.html
 
 
