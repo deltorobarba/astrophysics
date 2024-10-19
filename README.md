@@ -22,7 +22,7 @@
 * [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW170608.ipynb) from 08 Jun 2017
 * [GW170814](https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW170814.ipynb) from 14 Aug 2017
 
-## Stellar Astronomy
+## Stars
 
 * [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
 * [Binary star system A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620-00.ipynb)
