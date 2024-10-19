@@ -12,7 +12,8 @@
 
 ## Exoplanets
 
-* Frameworks: 
+* Frameworks: Lightkurve library installed, which is specifically designed to work with Kepler and TESS data.
+!pip install lightkurve -q
 
 * https://spacetelescope.github.io/mast_notebooks/notebooks/Kepler/plotting_lightcurves/plotting_lightcurves.html
 
