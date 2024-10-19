@@ -32,7 +32,7 @@
 
 * [Nebulae (test)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae.ipynb)
 
-## Galaxy Dynamics and Cosmology
+## Galaxies
 
 * [Galaxy Dynamics](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb)
 
