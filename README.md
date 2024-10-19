@@ -18,7 +18,8 @@
 
 ## Gravitational Waves
 
-* [GW150914](https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW150914.ipynb)
+* [GW150914](https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW150914.ipynb) from 14 September 2015
+* [GW170814](https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW170814.ipynb) from 14 August 2017
 
 ## Stellar Astronomy
 
