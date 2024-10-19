@@ -29,29 +29,27 @@
 
 ## Exoplanets
 
-* https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler10.ipynb
-* https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler8.ipynb
-* https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_trappist1.ipynb
-* https://docs.exoplanet.codes/en/latest/tutorials/citation/
-* http://www.exoplanet.eu/catalog/
-* https://science.nasa.gov/exoplanets/exoplanet-catalog/
+* [Kepler10](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler10.ipynb
+* [Kepler8](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler8.ipynb
+* [Trappist1](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_trappist1.ipynb
 
 ## Gravitational Waves
 
-* https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW150914.ipynb
+* [GW150914](https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW150914.ipynb)
 
 ## Stellar Astronomy
 
-* https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb
+* [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
 
 ## Galaxy Dynamics and Cosmology
 
-* https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb
+* [Galaxy Dynamics](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb)
 
 ## Additional Source
 
-* https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
-
-* https://spacetelescope.github.io/mast_notebooks/intro.html
+* [Physics](https://github.com/deltorobarba/sciences/blob/master/physics.ipynb)
+* [mast_notebooks](https://spacetelescope.github.io/mast_notebooks/intro.html)
+* [exoplanet.eu](http://www.exoplanet.eu/catalog/)
+* [nasa.gov/exoplanets](https://science.nasa.gov/exoplanets/exoplanet-catalog/)
 
 
