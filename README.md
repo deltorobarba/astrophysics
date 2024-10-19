@@ -1,6 +1,6 @@
-# Alexander Del Toro Barba, PhD
+# Astronomy & Astrophysics 
 
-### Astronomy & Astrophysics
+### Alexander Del Toro Barba, PhD
 
 [www.deltorobarba.com](https://www.deltorobarba.com) $\cdot$ [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
 
@@ -15,10 +15,17 @@
 <b>Astronomy, Special & General Relativity, Quantum Mechanics, Quantum Field Theory</b><br>
 https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
 
-## Exoplanets
+## Packages
 
-* [astropy](https://www.astropy.org): python framework for astronomy
-* [lightkurve](https://github.com/lightkurve/lightkurve): framework to analyze astronomical flux time series data, in particular the pixels and lightcurves obtained by NASA's Kepler and TESS exoplanet missions
+* [astropy](https://www.astropy.org): Python package for astronomy
+
+* [lightkurve](https://github.com/lightkurve/lightkurve): Python package to analyze astronomical flux time series data (pixels and lightcurves from NASA's Kepler and TESS exoplanet missions)
+
+* [galpy](https://docs.galpy.org/en/v1.10.0/): Python package for galactic dynamics
+
+
+
+## Exoplanets
 
 * https://spacetelescope.github.io/mast_notebooks/notebooks/Kepler/plotting_lightcurves/plotting_lightcurves.html
 
