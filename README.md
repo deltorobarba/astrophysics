@@ -18,7 +18,7 @@
 * [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net)
 * [lightkurve](https://github.com/lightkurve/lightkurve): to analyze astronomical flux time series data (pixels and lightcurves from NASA's Kepler and TESS exoplanet missions)
 * [galpy](https://docs.galpy.org/en/v1.10.0/): for simulating galactic dynamics
-* [GWpy](https://gwpy.github.io/docs/stable/) for studying data from ground-based gravitational-wave detectors (ime-domain and frequency-domain data produced by the LIGO and Virgo instruments and their analysis)
+* [GWpy](https://gwpy.github.io/docs/stable/) for studying data from ground-based gravitational-wave detectors (LIGO and Virgo instruments)
 * [gwosc](https://gwosc.readthedocs.io/en/stable/) interface to the [Gravitational-Wave Open Science Center archive](https://gwosc.org)
 * [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances
 * [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations of exoplanets
