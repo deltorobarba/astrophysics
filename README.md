@@ -10,20 +10,25 @@
 
 <br>
 
-## Physics
-
-<b>Astronomy, Special & General Relativity, Quantum Mechanics, Quantum Field Theory</b><br>
-https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
-
 ## Packages
 
 * [astropy](https://www.astropy.org): Python package for astronomy
+
+* [Astroquery](https://astroquery.readthedocs.io/en/latest/) Python package for querying astronomical web forms and databases
+
+* [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) Python package find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net)
 
 * [lightkurve](https://github.com/lightkurve/lightkurve): Python package to analyze astronomical flux time series data (pixels and lightcurves from NASA's Kepler and TESS exoplanet missions)
 
 * [galpy](https://docs.galpy.org/en/v1.10.0/): Python package for galactic dynamics
 
+* [GWpy](https://gwpy.github.io/docs/stable/) Python package for studying data from ground-based gravitational-wave detectors (ime-domain and frequency-domain data produced by the LIGO and Virgo instruments and their analysis)
 
+* [h5py](https://www.h5py.org) Python package to interface HDF5 binary data format
+
+## Data
+
+* 
 
 ## Exoplanets
 
@@ -50,5 +55,10 @@ https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
 ## Galaxy Dynamics and Cosmology
 
 * xxx
+
+## Physics
+
+<b>Astronomy, Special & General Relativity, Quantum Mechanics, Quantum Field Theory</b><br>
+https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
 
 
