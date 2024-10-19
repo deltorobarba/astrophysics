@@ -10,23 +10,6 @@
 
 <br>
 
-## Packages
-
-* [astropy](https://www.astropy.org): for astronomy
-* [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data
-* [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases
-* [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net)
-* [lightkurve](https://github.com/lightkurve/lightkurve): to analyze astronomical flux time series data (pixels and lightcurves from NASA's Kepler and TESS exoplanet missions)
-* [galpy](https://docs.galpy.org/en/v1.10.0/): for simulating galactic dynamics
-* [GWpy](https://gwpy.github.io/docs/stable/) for studying data from ground-based gravitational-wave detectors (LIGO and Virgo instruments)
-* [gwosc](https://gwosc.readthedocs.io/en/stable/) interface to the [Gravitational-Wave Open Science Center archive](https://gwosc.org)
-* [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances
-* [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations of exoplanets
-* [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters and stellar activity
-* [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create paper-quality mass-radius diagrams based on models of planetary interiors and atmospheres
-* [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) for wavelet transforms
-* [h5py](https://www.h5py.org) to interface HDF5 binary data format
-
 ## Exoplanets
 
 * [Kepler10](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler10.ipynb)
@@ -44,6 +27,23 @@
 ## Galaxy Dynamics and Cosmology
 
 * [Galaxy Dynamics](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb)
+
+## Packages
+
+* [astropy](https://www.astropy.org): for astronomy
+* [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data
+* [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases
+* [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net)
+* [lightkurve](https://github.com/lightkurve/lightkurve): to analyze astronomical flux time series data (pixels and lightcurves from NASA's Kepler and TESS exoplanet missions)
+* [galpy](https://docs.galpy.org/en/v1.10.0/): for simulating galactic dynamics
+* [GWpy](https://gwpy.github.io/docs/stable/) for studying data from ground-based gravitational-wave detectors (LIGO and Virgo instruments)
+* [gwosc](https://gwosc.readthedocs.io/en/stable/) interface to the [Gravitational-Wave Open Science Center archive](https://gwosc.org)
+* [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances
+* [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations of exoplanets
+* [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters and stellar activity
+* [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create paper-quality mass-radius diagrams based on models of planetary interiors and atmospheres
+* [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) for wavelet transforms
+* [h5py](https://www.h5py.org) to interface HDF5 binary data format
 
 ## Additional Source
 
