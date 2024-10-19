@@ -28,6 +28,10 @@
 * [Binary star system A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620-00.ipynb)
 * [HEASARC-X dataset](https://github.com/deltorobarba/astrophysics/blob/main/HEASARC-X.ipynb)
 
+## Nebulae
+
+* [Nebulae (test)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae.ipynb)
+
 ## Galaxy Dynamics and Cosmology
 
 * [Galaxy Dynamics](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb)
