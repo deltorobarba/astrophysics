@@ -1,6 +1,6 @@
 # Alexander Del Toro Barba, PhD
 
-### Global quantum computing practice lead at Google Cloud
+### Astronomy & Astrophysics
 
 [www.deltorobarba.com](https://www.deltorobarba.com) $\cdot$ [Google Scholar](https://scholar.google.com/citations?hl=en&user=fddyK-wAAAAJ)
 
@@ -8,12 +8,17 @@
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
 
-<br> 
+<br>
+
+## Physics
+
+<b>Astronomy, Special & General Relativity, Quantum Mechanics, Quantum Field Theory</b><br>
+https://github.com/deltorobarba/sciences/blob/master/physics.ipynb
 
 ## Exoplanets
 
-* Frameworks: Lightkurve library installed, which is specifically designed to work with Kepler and TESS data.
-!pip install lightkurve -q
+* [astropy](https://www.astropy.org): python framework for astronomy
+* [lightkurve](https://github.com/lightkurve/lightkurve): framework to analyze astronomical flux time series data, in particular the pixels and lightcurves obtained by NASA's Kepler and TESS exoplanet missions
 
 * https://spacetelescope.github.io/mast_notebooks/notebooks/Kepler/plotting_lightcurves/plotting_lightcurves.html
 
@@ -29,14 +34,14 @@
 
 ## Gravitational Waves
 
-* Frameworks:
+* xxx
 
 ## Stellar Astronomy
 
-* Frameworks:
+* xxx
 
 ## Galaxy Dynamics and Cosmology
 
-* Frameworks:
+* xxx
 
 
