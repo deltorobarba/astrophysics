@@ -12,9 +12,9 @@
 
 ## Exoplanets
 
-* [Kepler10](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler10.ipynb)
-* [Kepler8](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler8.ipynb)
-* [Trappist1](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_trappist1.ipynb)
+* [Kepler10](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler10.ipynb) at 610 light years away
+* [Kepler8](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler8.ipynb) at 3520 light years away
+* [Trappist1](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_trappist1.ipynb) at 40 light years away
 
 ## Gravitational Waves
 
