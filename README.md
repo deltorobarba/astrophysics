@@ -45,7 +45,7 @@
 * [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data
 * [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases
 * [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net)
-* [PySynphot](https://pysynphot.readthedocs.io/en/latest/) for optical spectra (synthetic photometry)
+* [PySynphot](https://pysynphot.readthedocs.io/en/latest/) simulates photometric data and optical spectra as observed with Hubble Space Telescope (HST), synthetic photometry
 * [Stars] [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) X-Ray Spectral Fitting
 * [Stars] [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances
 * [Exoplanet] [lightkurve](https://github.com/lightkurve/lightkurve): to analyze astronomical flux time series data (pixels and lightcurves from Kepler & TESS)
