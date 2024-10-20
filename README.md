@@ -25,8 +25,9 @@
 ## Stars
 
 * [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
-* [Binary star system A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620_00.ipynb)
-* [HEASARC-X dataset](https://github.com/deltorobarba/astrophysics/blob/main/heasarc_x.ipynb)
+* [A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620_00.ipynb) (Binary star system)
+* [Vega](https://github.com/deltorobarba/astrophysics/blob/main/stars_vega.ipynb) (Star)
+* [HEASARC-X](https://github.com/deltorobarba/astrophysics/blob/main/heasarc_x.ipynb) (data set)
 
 ## Galaxies
 
