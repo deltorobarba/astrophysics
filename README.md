@@ -35,6 +35,7 @@
 ## Galaxies
 
 * [Galaxy Dynamics](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb)
+* [Cutout](https://github.com/deltorobarba/astrophysics/blob/main/cutout.ipynb)
 
 ## Packages
 
