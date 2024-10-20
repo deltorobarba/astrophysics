@@ -55,8 +55,6 @@
 * [Gravitational Wave] [gwosc](https://gwosc.readthedocs.io/en/stable/) interface to the [Gravitational-Wave Open Science Center archive](https://gwosc.org)
 * [Galaxy] [galpy](https://docs.galpy.org/en/v1.10.0/): for simulating galactic dynamics
 * [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create paper-quality mass-radius diagrams based on models of planetary interiors and atmospheres
-* [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) for wavelet transforms
-* [h5py](https://www.h5py.org) to interface HDF5 binary data format
 
 ## Additional Source
 
