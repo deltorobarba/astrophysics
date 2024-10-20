@@ -47,7 +47,7 @@
 * [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net)
 * [PySynphot](https://pysynphot.readthedocs.io/en/latest/) for optical spectra (synthetic photometry)
 * [Stars] [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) X-Ray Spectral Fitting
-* [Exoplanet] [lightkurve](https://github.com/lightkurve/lightkurve): to analyze astronomical flux time series data (pixels and lightcurves from NASA's Kepler and TESS exoplanet missions)
+* [Exoplanet] [lightkurve](https://github.com/lightkurve/lightkurve): to analyze astronomical flux time series data (pixels and lightcurves from Kepler & TESS)
 * [Exoplanet] [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations of exoplanets
 * [Exoplanet] [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters and stellar activity
 * [galpy](https://docs.galpy.org/en/v1.10.0/): for simulating galactic dynamics
