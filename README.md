@@ -26,7 +26,7 @@
 
 * [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
 * [Binary star system A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620-00.ipynb)
-* [HEASARC-X dataset](https://github.com/deltorobarba/astrophysics/blob/main/HEASARC-X.ipynb)
+* [HEASARC-X dataset](https://github.com/deltorobarba/astrophysics/blob/main/HEASARC_X.ipynb)
 
 ## Nebulae
 
