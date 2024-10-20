@@ -47,13 +47,13 @@
 * [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net)
 * [PySynphot](https://pysynphot.readthedocs.io/en/latest/) for optical spectra (synthetic photometry)
 * [Stars] [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) X-Ray Spectral Fitting
+* [Stars] [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances
 * [Exoplanet] [lightkurve](https://github.com/lightkurve/lightkurve): to analyze astronomical flux time series data (pixels and lightcurves from Kepler & TESS)
 * [Exoplanet] [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations of exoplanets
 * [Exoplanet] [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters and stellar activity
-* [galpy](https://docs.galpy.org/en/v1.10.0/): for simulating galactic dynamics
 * [Gravitational Wave] [GWpy](https://gwpy.github.io/docs/stable/) studying data from ground-based gravitational-wave detectors (LIGO & Virgo)
 * [Gravitational Wave] [gwosc](https://gwosc.readthedocs.io/en/stable/) interface to the [Gravitational-Wave Open Science Center archive](https://gwosc.org)
-* [Stars] [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances
+* [Galaxy] [galpy](https://docs.galpy.org/en/v1.10.0/): for simulating galactic dynamics
 * [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create paper-quality mass-radius diagrams based on models of planetary interiors and atmospheres
 * [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) for wavelet transforms
 * [h5py](https://www.h5py.org) to interface HDF5 binary data format
