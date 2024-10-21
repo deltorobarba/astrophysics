@@ -12,7 +12,7 @@
 
 ## Exoplanets
 
-An exoplanet is a planet that orbits a star outside of our solar system. Package [lightkurve](https://github.com/lightkurve/lightkurve), [exoplanet](https://docs.exoplanet.codes/en/latest/), [PyORBIT](https://github.com/LucaMalavolta/PyORBIT).
+An exoplanet is a planet that orbits a star outside of our solar system. Package [lightkurve](https://github.com/lightkurve/lightkurve) to analyze astronomical flux data from Kepler & TESS, [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations of exoplanets, [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters and stellar activity.
 
 * [Kepler10](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler10.ipynb) at 610 light years away
 * [Kepler8](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler8.ipynb) at 3520 light years away
@@ -21,7 +21,7 @@ An exoplanet is a planet that orbits a star outside of our solar system. Package
 
 ## Gravitational Waves
 
-A gravitational wave is a ripple in spacetime caused by the acceleration of massive objects. Package [GWpy](https://gwpy.github.io/docs/stable/), [Gravitational Wave] [gwosc](https://gwosc.readthedocs.io/en/stable/).
+A gravitational wave is a ripple in spacetime caused by the acceleration of massive objects. Package [GWpy](https://gwpy.github.io/docs/stable/) for studying data from ground-based gravitational-wave detectors (LIGO & Virgo), [Gravitational Wave] [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface the [Gravitational-Wave Open Science Center](https://gwosc.org) archive.
 
 * [GW150914](https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW150914.ipynb) from 14 Sep 2015
 * [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW170608.ipynb) from 08 Jun 2017
@@ -29,7 +29,7 @@ A gravitational wave is a ripple in spacetime caused by the acceleration of mass
 
 ## Stars
 
-A star is a massive, luminous celestial body of plasma held together by its own gravity. Package [PyORBIT](https://github.com/LucaMalavolta/PyORBIT), [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) X-Ray Spectral Fitting, [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances.
+A star is a massive, luminous celestial body of plasma held together by its own gravity. Package [PyORBIT](https://github.com/LucaMalavolta/PyORBIT), [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) for X-Ray Spectral Fitting, [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances.
 
 * [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
 * [A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620_00.ipynb) (Binary star system)
@@ -38,12 +38,16 @@ A star is a massive, luminous celestial body of plasma held together by its own 
 
 ## Galaxies
 
+A galaxy is a large collection of stars, gas, dust, and dark matter held together by gravity. Package [galpy](https://docs.galpy.org/en/v1.10.0/) for simulating galactic dynamics.
+
 * [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb)
 * [ROSAT All-Sky Survey](https://github.com/deltorobarba/astrophysics/blob/main/rosat.ipynb)
 * [Cutout](https://github.com/deltorobarba/astrophysics/blob/main/cutout.ipynb)
 * [Galaxy Dynamics](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb)
 
 ## Nebulae
+
+Nebulae are giant clouds of gas and dust in space, often where stars are born or where they die.
 
 * [Nebulae (test)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae.ipynb)
 
@@ -54,14 +58,6 @@ A star is a massive, luminous celestial body of plasma held together by its own 
 * [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases
 * [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net)
 * [PySynphot](https://pysynphot.readthedocs.io/en/latest/) simulates photometric data and optical spectra as observed with Hubble Space Telescope (HST), synthetic photometry
-* [Stars] [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) X-Ray Spectral Fitting
-* [Stars] [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances
-* [Exoplanet] [lightkurve](https://github.com/lightkurve/lightkurve): to analyze astronomical flux time series data (pixels and lightcurves from Kepler & TESS)
-* [Exoplanet] [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations of exoplanets
-* [Exoplanet] [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters and stellar activity
-* [Gravitational Wave] [GWpy](https://gwpy.github.io/docs/stable/) studying data from ground-based gravitational-wave detectors (LIGO & Virgo)
-* [Gravitational Wave] [gwosc](https://gwosc.readthedocs.io/en/stable/) interface to the [Gravitational-Wave Open Science Center archive](https://gwosc.org)
-* [Galaxy] [galpy](https://docs.galpy.org/en/v1.10.0/): for simulating galactic dynamics
 * [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create paper-quality mass-radius diagrams based on models of planetary interiors and atmospheres
 
 ## Additional Source
