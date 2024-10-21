@@ -23,9 +23,9 @@ An exoplanet is a planet that orbits a star outside of our solar system. Package
 
 A gravitational wave is a ripple in spacetime caused by the acceleration of massive objects. Package [GWpy](https://gwpy.github.io/docs/stable/) for studying data from ground-based gravitational-wave detectors (LIGO & Virgo), [Gravitational Wave] [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave Open Science Center](https://gwosc.org).
 
-* [GW150914](https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW150914.ipynb) from 14 Sep 2015
-* [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW170608.ipynb) from 08 Jun 2017
-* [GW170814](https://github.com/deltorobarba/astrophysics/blob/main/graviational_wave_GW170814.ipynb) from 14 Aug 2017
+* [GW150914](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW150914.ipynb) from 14 Sep 2015
+* [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170608.ipynb) from 08 Jun 2017
+* [GW170814](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170814.ipynb) from 14 Aug 2017
 
 ## Stars
 
