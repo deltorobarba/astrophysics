@@ -29,7 +29,7 @@ A gravitational wave is a ripple in spacetime caused by the acceleration of mass
 
 ## Stars
 
-A star is a massive, luminous celestial body of plasma held together by its own gravity. Package [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity, [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) for X-Ray Spectral Fitting, [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances.
+A star is a massive, luminous celestial body of plasma held together by its own gravity. Package [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity, [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances.
 
 * [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
 * [A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620_00.ipynb) (Binary star system)
@@ -56,6 +56,8 @@ Nebulae are giant clouds of gas and dust in space, often where stars are born or
 ## Astronomical Spectroscopy
 
 * [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/radioastronomy.ipynb) spectral analysis from Splatalogue
+* [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) for X-Ray Spectral Fitting
+* * [PySynphot](https://pysynphot.readthedocs.io/en/latest/) simulates photometric data and optical spectra as observed with Hubble Space Telescope (HST), synthetic photometry
 
 ## Packages
 
@@ -63,7 +65,6 @@ Nebulae are giant clouds of gas and dust in space, often where stars are born or
 * [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data
 * [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases
 * [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net)
-* [PySynphot](https://pysynphot.readthedocs.io/en/latest/) simulates photometric data and optical spectra as observed with Hubble Space Telescope (HST), synthetic photometry
 * [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create paper-quality mass-radius diagrams based on models of planetary interiors and atmospheres
 
 ## Additional Source
