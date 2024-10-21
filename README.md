@@ -55,7 +55,7 @@ Nebulae are giant clouds of gas and dust in space, often where stars are born or
 
 ## Astronomical Spectroscopy
 
-* [Radioastronomy (Splatalogue)](https://github.com/deltorobarba/astrophysics/blob/main/radioastronomy.ipynb) for spectral analysis
+* [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/radioastronomy.ipynb) spectral analysis from Splatalogue
 
 ## Packages
 
