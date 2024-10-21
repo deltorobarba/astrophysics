@@ -53,7 +53,7 @@ Nebulae are giant clouds of gas and dust in space, often where stars are born or
 * [NGC 1499 (California Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_NGC_1499.ipynb)
 * [M42 (Orion Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_M42.ipynb)
 
-## Astrochemistry
+## Astronomical Spectroscopy
 
 * [Radioastronomy (Splatalogue)](https://github.com/deltorobarba/astrophysics/blob/main/radioastronomy.ipynb) for spectral analysis
 
