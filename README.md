@@ -12,7 +12,7 @@
 
 ## Exoplanets
 
-An exoplanet is a planet that orbits a star outside of our solar system. Package [lightkurve](https://github.com/lightkurve/lightkurve) to analyze astronomical flux data from Kepler & TESS, [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations of exoplanets, [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters and stellar activity.
+An exoplanet is a planet that orbits a star outside of our solar system. Package [lightkurve](https://github.com/lightkurve/lightkurve) to analyze astronomical flux data from Kepler & TESS, [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations of exoplanets, [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters.
 
 * [Kepler10](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler10.ipynb) at 610 light years away
 * [Kepler8](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler8.ipynb) at 3520 light years away
@@ -29,7 +29,7 @@ A gravitational wave is a ripple in spacetime caused by the acceleration of mass
 
 ## Stars
 
-A star is a massive, luminous celestial body of plasma held together by its own gravity. Package [PyORBIT](https://github.com/LucaMalavolta/PyORBIT), [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) for X-Ray Spectral Fitting, [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances.
+A star is a massive, luminous celestial body of plasma held together by its own gravity. Package [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity, [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) for X-Ray Spectral Fitting, [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances.
 
 * [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
 * [A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620_00.ipynb) (Binary star system)
