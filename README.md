@@ -50,8 +50,8 @@ A galaxy is a large collection of stars, gas, dust, and dark matter held togethe
 
 Nebulae are giant clouds of gas and dust in space, often where stars are born or where they die.
 
-* [NGC 1499](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_NGC_1499.ipynb)
-* [M42 Orion Nebula](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_M42.ipynb)
+* [NGC 1499 (California Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_NGC_1499.ipynb)
+* [M42 (Orion Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_M42.ipynb)
 
 ## Packages
 
