@@ -34,7 +34,6 @@ A star is a massive, luminous celestial body of plasma held together by its own 
 * [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
 * [A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620_00.ipynb) (Binary star system)
 * [Vega](https://github.com/deltorobarba/astrophysics/blob/main/stars_vega.ipynb) (Star)
-* [HEASARC-X](https://github.com/deltorobarba/astrophysics/blob/main/heasarc_x.ipynb) (data set)
 
 ## Galaxies
 
@@ -57,7 +56,8 @@ Nebulae are giant clouds of gas and dust in space, often where stars are born or
 
 * [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/radioastronomy.ipynb) spectral analysis from Splatalogue
 * [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) for X-Ray Spectral Fitting
-* * [PySynphot](https://pysynphot.readthedocs.io/en/latest/) simulates photometric data and optical spectra as observed with Hubble Space Telescope (HST), synthetic photometry
+* [PySynphot](https://pysynphot.readthedocs.io/en/latest/) simulates photometric data and optical spectra as observed with Hubble Space Telescope (HST), synthetic photometry
+* [HEASARC-X](https://github.com/deltorobarba/astrophysics/blob/main/heasarc_x.ipynb) for X-ray, gamma-ray, and extreme ultraviolet ranges
 
 ## Packages
 
