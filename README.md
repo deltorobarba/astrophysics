@@ -45,6 +45,10 @@
 * [Cutout](https://github.com/deltorobarba/astrophysics/blob/main/cutout.ipynb)
 * [Galaxy Dynamics](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb)
 
+## Black Holes
+
+* [Black Hole Spectroscopy](https://github.com/deltorobarba/astrophysics/blob/main/blackhole_spectroscopy.ipynb)
+
 ## Nebulae
 
 [photutils](https://photutils.readthedocs.io/en/stable/) detection and photometry incl. aperture and PSF. [ccdproc](https://ccdproc.readthedocs.io/en/latest/) reducing and calibrating CCD images. [specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopy. [reproject](https://reproject.readthedocs.io/en/stable/) image reprojection between WCS coordinate systems. [dust_extinction](https://dust-extinction.readthedocs.io/en/latest/) interstellar dust extinction calculations.
