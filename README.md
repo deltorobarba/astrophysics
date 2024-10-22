@@ -19,8 +19,6 @@
 * [Trappist1](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_trappist1.ipynb) at 40 light years away
 * [HR 8799](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_HR8799.ipynb) at 130 light years away
 
-<br>
-
 ## Gravitational Waves
 
 [GWpy](https://gwpy.github.io/docs/stable/) data from gravitational-wave detectors (LIGO & Virgo). [PyCBC](https://pycbc.org/) explore astrophysical sources of gravitational waves. [Bilby](https://lscsoft.docs.ligo.org/bilby/) inference of compact binary coalescence events in interferometric data. [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave Open Science Center](https://gwosc.org).
@@ -29,8 +27,6 @@
 * [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170608.ipynb) from 08 Jun 2017
 * [GW170814](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170814.ipynb) from 14 Aug 2017
 
-<br>
-
 ## Stars
 
 [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances.
@@ -38,8 +34,6 @@
 * [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
 * [A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620_00.ipynb) (Binary star system)
 * [Vega](https://github.com/deltorobarba/astrophysics/blob/main/stars_vega.ipynb) (Star)
-
-<br>
 
 ## Galaxies
 
@@ -51,14 +45,10 @@
 * [Cutout](https://github.com/deltorobarba/astrophysics/blob/main/cutout.ipynb)
 * [Galaxy Dynamics](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb)
 
-<br>
-
 ## Nebulae
 
 * [NGC 1499 (California Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_NGC_1499.ipynb)
 * [M42 (Orion Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_M42.ipynb)
-
-<br>
 
 ## Astronomical Spectroscopy
 
