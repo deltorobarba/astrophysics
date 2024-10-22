@@ -47,6 +47,8 @@
 
 ## Black Holes
 
+[pykerr](https://github.com/cdcapano/pykerr) to get the frequency, damping time, and spheroidal harmonics of Kerr black holes. [PyCBC](https://pycbc.org/) explore astrophysical sources of gravitational waves. 
+
 * [Black Hole Spectroscopy](https://github.com/deltorobarba/astrophysics/blob/main/blackhole_spectroscopy.ipynb)
 
 ## Nebulae
