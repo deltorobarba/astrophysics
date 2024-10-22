@@ -47,12 +47,14 @@
 
 ## Nebulae
 
-photutils detection and photometry incl. aperture and PSF. ccdproc reducing and calibrating CCD images. specutils for spectroscopy. reproject image reprojection between WCS coordinate systems. dust_extinction interstellar dust extinction calculations.
+[photutils](https://photutils.readthedocs.io/en/stable/) detection and photometry incl. aperture and PSF. [ccdproc](https://ccdproc.readthedocs.io/en/latest/) reducing and calibrating CCD images. [specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopy. [reproject](https://reproject.readthedocs.io/en/stable/) image reprojection between WCS coordinate systems. [dust_extinction](https://dust-extinction.readthedocs.io/en/latest/) interstellar dust extinction calculations.
 
 * [NGC 1499 (California Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_NGC_1499.ipynb)
 * [M42 (Orion Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_M42.ipynb)
 
 ## Astronomical Spectroscopy
+
+[specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopic analysis.
 
 * [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) from Chandra telescope, e.g. for large number of binaries (white dwarf, neutron star of black hole), eg if ionized hydrogen lands on neutron star also thermonuclear x-ray flashed can occur. Many  black holes detectable via X rays (or γ rays).
 * [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb) for data from Spitzer telescope, e.g. for detecting water molecules, e.g. in the Orion Nebula, emit infrared radiation when large amounts of water molecules exist at high temperatures
