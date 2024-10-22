@@ -53,9 +53,8 @@
 ## Astronomical Spectroscopy
 
 * [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/radioastronomy.ipynb) spectral analysis from Splatalogue
-* [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) for X-Ray Spectral Fitting
-* [PySynphot](https://pysynphot.readthedocs.io/en/latest/) simulates photometric data and optical spectra as observed with Hubble Space Telescope (HST), synthetic photometry
-* [HEASARC-X](https://github.com/deltorobarba/astrophysics/blob/main/heasarc_x.ipynb) for X-ray, gamma-ray, and extreme ultraviolet ranges
+* X-Ray Astronomy - [HEASARC-X](https://github.com/deltorobarba/astrophysics/blob/main/heasarc_x.ipynb) for X-ray, gamma-ray, and extreme ultraviolet ranges. [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) for X-Ray Spectral Fitting. [MUWCLASS](https://github.com/MUWCLASS/MUWCLASS?tab=readme-ov-file) to classify X-ray sources based on their multiwavelength properties
+* Visible Light Astronomy - [PySynphot](https://pysynphot.readthedocs.io/en/latest/) simulates photometric data and optical spectra as observed with Hubble Space Telescope (HST), synthetic photometry
 
 <br>
 
