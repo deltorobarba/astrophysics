@@ -12,12 +12,16 @@
 
 ## Exoplanets
 
+[lightkurve](https://github.com/lightkurve/lightkurve) to analyze astronomical flux data from Kepler & TESS, [exoplanet](https://docs.exoplanet.codes/en/latest/) for probabilistic modeling of time series observations of exoplanets, [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for exoplanet orbital parameters.
+
 * [Kepler10](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler10.ipynb) at 610 light years away
 * [Kepler8](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler8.ipynb) at 3520 light years away
 * [Trappist1](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_trappist1.ipynb) at 40 light years away
 * [HR 8799](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_HR8799.ipynb) at 130 light years away
 
 ## Gravitational Waves
+
+[GWpy](https://gwpy.github.io/docs/stable/) for studying data from ground-based gravitational-wave detectors (LIGO & Virgo), [Gravitational Wave] [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave Open Science Center](https://gwosc.org)
 
 * [GW150914](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW150914.ipynb) from 14 Sep 2015
 * [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170608.ipynb) from 08 Jun 2017
