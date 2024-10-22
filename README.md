@@ -12,7 +12,7 @@
 
 ## Exoplanets
 
-*[lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters. [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create mass-radius diagrams based on models of planetary interiors and atmospheres.*
+[lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters. [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create mass-radius diagrams based on models of planetary interiors and atmospheres.
 
 * [Kepler10](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler10.ipynb) at 610 light years away
 * [Kepler8](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_kepler8.ipynb) at 3520 light years away
@@ -21,7 +21,7 @@
 
 ## Gravitational Waves
 
-*[GWpy](https://gwpy.github.io/docs/stable/) data from gravitational-wave detectors (LIGO & Virgo). [PyCBC](https://pycbc.org/) explore astrophysical sources of gravitational waves. [Bilby](https://lscsoft.docs.ligo.org/bilby/) inference of compact binary coalescence events in interferometric data. [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave Open Science Center](https://gwosc.org).*
+[GWpy](https://gwpy.github.io/docs/stable/) data from gravitational-wave detectors (LIGO & Virgo). [PyCBC](https://pycbc.org/) explore astrophysical sources of gravitational waves. [Bilby](https://lscsoft.docs.ligo.org/bilby/) inference of compact binary coalescence events in interferometric data. [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave Open Science Center](https://gwosc.org).
 
 * [GW150914](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW150914.ipynb) from 14 Sep 2015
 * [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170608.ipynb) from 08 Jun 2017
@@ -29,7 +29,7 @@
 
 ## Stars
 
-*[PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity, [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances.*
+[PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances.
 
 * [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
 * [A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620_00.ipynb) (Binary star system)
@@ -37,7 +37,7 @@
 
 ## Galaxies
 
-[galpy](https://docs.galpy.org/en/v1.10.0/) for simulating galactic dynamics
+[galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics
 
 * [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb)
 * [1237667726440202290](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_1237667726440202290.ipynb)
