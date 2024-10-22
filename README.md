@@ -54,7 +54,7 @@
 
 * [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) from Chandra telescope
 * [Visible-light Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_visiblelight.ipynb)
-* [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb) for data from Spitzer telescope
+* [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb) for data from Spitzer telescope, e.g. for detecting water molecules, e.g. in the Orion Nebula, emit infrared radiation when large amounts of water molecules exist at high temperatures
 * [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_radio.ipynb) spectral analysis from Splatalogue
 
 
