@@ -52,10 +52,10 @@
 
 ## Astronomical Spectroscopy
 
-* [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_radio.ipynb) spectral analysis from Splatalogue
 * [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) from Chandra telescope
 * [Visible-light Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_visiblelight.ipynb)
 * [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb)
+* [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_radio.ipynb) spectral analysis from Splatalogue
 
 
 <br>
