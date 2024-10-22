@@ -21,7 +21,7 @@
 
 ## Gravitational Waves
 
-[GWpy](https://gwpy.github.io/docs/stable/) for studying data from ground-based gravitational-wave detectors (LIGO & Virgo), [PyCBC](https://pycbc.org/) to explore astrophysical sources of gravitational waves, [Bilby](https://lscsoft.docs.ligo.org/bilby/) for inference of compact binary coalescence events in interferometric data, [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave Open Science Center](https://gwosc.org)
+[GWpy](https://gwpy.github.io/docs/stable/) for data from ground-based gravitational-wave detectors (LIGO & Virgo), [PyCBC](https://pycbc.org/) to explore astrophysical sources of gravitational waves, [Bilby](https://lscsoft.docs.ligo.org/bilby/) for inference of compact binary coalescence events in interferometric data, [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave Open Science Center](https://gwosc.org)
 
 * [GW150914](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW150914.ipynb) from 14 Sep 2015
 * [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170608.ipynb) from 08 Jun 2017
@@ -58,4 +58,4 @@
 * [HEASARC-X](https://github.com/deltorobarba/astrophysics/blob/main/heasarc_x.ipynb) for X-ray, gamma-ray, and extreme ultraviolet ranges
 
 
-[astropy](https://www.astropy.org): for astronomy. [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data. [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases. [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net). [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create paper-quality mass-radius diagrams based on models of planetary interiors and atmospheres
+**General**: [astropy](https://www.astropy.org): for astronomy. [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data. [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases. [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net). [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create paper-quality mass-radius diagrams based on models of planetary interiors and atmospheres.
