@@ -53,8 +53,10 @@
 ## Astronomical Spectroscopy
 
 * [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_radio.ipynb) spectral analysis from Splatalogue
-* [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) for X-ray (gamma-ray, and extreme ultraviolet ranges). [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) for X-Ray Spectral Fitting. [MUWCLASS](https://github.com/MUWCLASS/MUWCLASS?tab=readme-ov-file) to classify X-ray sources based on their multiwavelength properties
-* Visible Light Astronomy - [PySynphot](https://pysynphot.readthedocs.io/en/latest/) simulates photometric data and optical spectra as observed with Hubble Space Telescope (HST), synthetic photometry
+* [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) from Chandra telescope
+* [Visible-light Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_visiblelight.ipynb)
+* [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb)
+
 
 <br>
 
