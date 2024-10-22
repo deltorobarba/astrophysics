@@ -52,7 +52,7 @@
 
 ## Astronomical Spectroscopy
 
-* [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) from Chandra telescope, e.g. for large number of binaries (white dwarf, neutron star of black hole), eg if ionized hydrogen lands on neutron star also thermonuclear x-ray flashed can occur. Many  black holes residing at the centers of distant galaxies may be detected via X rays or Y rays.
+* [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) from Chandra telescope, e.g. for large number of binaries (white dwarf, neutron star of black hole), eg if ionized hydrogen lands on neutron star also thermonuclear x-ray flashed can occur. Many  black holes detectable via X rays (or γ rays).
 * [Visible-light Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_visiblelight.ipynb)
 * [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb) for data from Spitzer telescope, e.g. for detecting water molecules, e.g. in the Orion Nebula, emit infrared radiation when large amounts of water molecules exist at high temperatures
 * [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_radio.ipynb) spectral analysis from Splatalogue
