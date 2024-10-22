@@ -21,7 +21,7 @@
 
 ## Gravitational Waves
 
-[GWpy](https://gwpy.github.io/docs/stable/) for studying data from ground-based gravitational-wave detectors (LIGO & Virgo), [Gravitational Wave] [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave Open Science Center](https://gwosc.org)
+[GWpy](https://gwpy.github.io/docs/stable/) for studying data from ground-based gravitational-wave detectors (LIGO & Virgo), [PyCBC](https://pycbc.org/) to explore astrophysical sources of gravitational waves, [Bilby](https://lscsoft.docs.ligo.org/bilby/) for inference of compact binary coalescence events in interferometric data, [gwosc](https://gwosc.readthedocs.io/en/stable/) to interface [Gravitational-Wave Open Science Center](https://gwosc.org)
 
 * [GW150914](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW150914.ipynb) from 14 Sep 2015
 * [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170608.ipynb) from 08 Jun 2017
