@@ -47,6 +47,8 @@
 
 ## Nebulae
 
+photutils detection and photometry incl. aperture and PSF photometry. ccdproc reducing and calibrating CCD images. specutils spectroscopic analysis. reproject image reprojection between WCS coordinate systems. dust_extinction interstellar dust extinction calculations.
+
 * [NGC 1499 (California Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_NGC_1499.ipynb)
 * [M42 (Orion Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_M42.ipynb)
 
