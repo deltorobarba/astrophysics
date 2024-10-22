@@ -29,11 +29,15 @@
 
 ## Stars
 
+[PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity, [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances.
+
 * [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
 * [A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620_00.ipynb) (Binary star system)
 * [Vega](https://github.com/deltorobarba/astrophysics/blob/main/stars_vega.ipynb) (Star)
 
 ## Galaxies
+
+[galpy](https://docs.galpy.org/en/v1.10.0/) for simulating galactic dynamics
 
 * [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb)
 * [1237667726440202290](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_1237667726440202290.ipynb)
