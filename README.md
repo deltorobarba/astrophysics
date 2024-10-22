@@ -56,3 +56,6 @@
 * [Xspec](https://heasarc.gsfc.nasa.gov/xanadu/xspec/) for X-Ray Spectral Fitting
 * [PySynphot](https://pysynphot.readthedocs.io/en/latest/) simulates photometric data and optical spectra as observed with Hubble Space Telescope (HST), synthetic photometry
 * [HEASARC-X](https://github.com/deltorobarba/astrophysics/blob/main/heasarc_x.ipynb) for X-ray, gamma-ray, and extreme ultraviolet ranges
+
+
+[astropy](https://www.astropy.org): for astronomy. [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data. [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases. [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net). [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create paper-quality mass-radius diagrams based on models of planetary interiors and atmospheres
