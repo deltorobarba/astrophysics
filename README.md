@@ -29,7 +29,7 @@
 
 ## Stars
 
-[PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances.
+[PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. sunpy: For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
 
 * [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
 * [A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620_00.ipynb) (Binary star system)
@@ -61,7 +61,7 @@
 
 ## Astronomical Spectroscopy
 
-[specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopic analysis.
+[specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopic analysis. [PySpecKit](https://pyspeckit.readthedocs.io/en/latest/) specialized for spectroscopic analysis. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
 
 * [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) from Chandra telescope, e.g. for large number of binaries (white dwarf, neutron star of black hole), eg if ionized hydrogen lands on neutron star also thermonuclear x-ray flashed can occur. Many  black holes detectable via X rays (or γ rays).
 * [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb) for data from Spitzer telescope, e.g. for detecting water molecules, e.g. in the Orion Nebula, emit infrared radiation when large amounts of water molecules exist at high temperatures
@@ -71,4 +71,4 @@
 
 <br>
 
-**General**: [astropy](https://www.astropy.org): for astronomy. [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data. [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases. [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net). einsteinpy for general relativity calculations. sphx for spherical harmonics. yt for scientific visualization. pynbody for N-body simulations.
+**General**: [astropy](https://www.astropy.org): for astronomy. [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data. [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases. [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net). einsteinpy for general relativity calculations. sphx for spherical harmonics. yt for scientific visualization. pynbody for N-body simulations. APLpy: For astronomical plotting. photutils: For astronomical photometry. ccdproc: For handling CCD image processing. SEP (Source Extraction and Photometry). astroplan: For observation planning. 
