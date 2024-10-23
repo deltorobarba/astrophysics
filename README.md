@@ -37,7 +37,7 @@
 
 ## Galaxies
 
-[galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics
+[galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition. PyNbody: For N-body and hydrodynamical simulations. Mangadap: For analysis of MANGA galaxy survey data. GalaxyNet: CNN-based galaxy classification. GalaxyCNN: Deep learning for morphological analysis. Diskfit: For disk galaxy fitting. GalPy: Comprehensive galaxy dynamics modeling. statmorph for morphological measurements.
 
 * [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb)
 * [1237667726440202290](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_1237667726440202290.ipynb)
@@ -61,7 +61,7 @@
 
 ## Astronomical Spectroscopy
 
-[specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopic analysis. [PySpecKit](https://pyspeckit.readthedocs.io/en/latest/) specialized for spectroscopic analysis. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
+[specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopic analysis. [PySpecKit](https://pyspeckit.readthedocs.io/en/latest/) specialized for spectroscopic analysis. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra. spectral-cube: For 3D spectral data cubes. ProSpect: For spectral energy distribution fitting.
 
 * [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) from Chandra telescope, e.g. for large number of binaries (white dwarf, neutron star of black hole), eg if ionized hydrogen lands on neutron star also thermonuclear x-ray flashed can occur. Many  black holes detectable via X rays (or γ rays).
 * [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb) for data from Spitzer telescope, e.g. for detecting water molecules, e.g. in the Orion Nebula, emit infrared radiation when large amounts of water molecules exist at high temperatures
@@ -71,4 +71,4 @@
 
 <br>
 
-**General**: [astropy](https://www.astropy.org): for astronomy. [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data. [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases. [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net). einsteinpy for general relativity calculations. sphx for spherical harmonics. yt for scientific visualization. pynbody for N-body simulations. APLpy: For astronomical plotting. photutils: For astronomical photometry. ccdproc: For handling CCD image processing. SEP (Source Extraction and Photometry). astroplan: For observation planning. 
+**General**: [astropy](https://www.astropy.org): for astronomy. [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data. [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases. [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net). einsteinpy for general relativity calculations. sphx for spherical harmonics. yt for scientific visualization. pynbody for N-body simulations. APLpy: For astronomical plotting. photutils: For astronomical photometry. ccdproc: For handling CCD image processing. SEP (Source Extraction and Photometry). astroplan: For observation planning. ALFA: For automated line fitting and analysis. astroNN: Neural networks for astronomical data.
