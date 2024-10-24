@@ -65,9 +65,9 @@
 
 * [FITS](https://github.com/deltorobarba/astrophysics/blob/main/fits.ipynb) files for astrophysics, including HDUL (Header Data Units).
 * [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) from Chandra and ROSAT  telescope, and HEASARC X
-* [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb) for data from Spitzer telescope, e.g. for detecting water molecules, e.g. in the Orion Nebula, emit infrared radiation when large amounts of water molecules exist at high temperatures
-* [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_radio.ipynb) spectral analysis from Splatalogue, e.g. atomic hydrogen in interstellar space should be detectable via an emission line at 21 cm wavelength (1420 MHz in frequency). Besides fast radio bursts by some high-energy astrophysical process.
-* [Visible-light Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_visiblelight.ipynb) for emission and absorption spectra of important elements (e.g. hydrogen in nebulae, stars or exoplanets)
+* [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb) from Spitzer and James Webb Space Telescope
+* [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_radio.ipynb) spectral analysis from Splatalogue
+* [Visible-light Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_visiblelight.ipynb) from Hubble, James Webb Space Telescope, Very Large Telescope (VLT), and Keck Observatory
 
 
 <br>
