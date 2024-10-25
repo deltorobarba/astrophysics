@@ -56,7 +56,6 @@
 
 [photutils](https://photutils.readthedocs.io/en/stable/) detection and photometry incl. aperture and PSF. [ccdproc](https://ccdproc.readthedocs.io/en/latest/) reducing and calibrating CCD images. [specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopy. [reproject](https://reproject.readthedocs.io/en/stable/) image reprojection between WCS coordinate systems. [dust_extinction](https://dust-extinction.readthedocs.io/en/latest/) interstellar dust extinction calculations.
 
-* [NGC 1499 (California Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_NGC_1499.ipynb)
 * [M42 (Orion Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_M42.ipynb)
 
 ## Astronomical Spectroscopy
