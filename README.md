@@ -34,6 +34,7 @@
 * [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
 * [A0620-008](https://github.com/deltorobarba/astrophysics/blob/main/binarystar_A0620_00.ipynb) (Binary star system)
 * [Vega](https://github.com/deltorobarba/astrophysics/blob/main/stars_vega.ipynb) (Star)
+* [Deneb](https://github.com/deltorobarba/astrophysics/blob/main/stars_deneb.ipynb) (Star)
 
 ## Galaxies
 
