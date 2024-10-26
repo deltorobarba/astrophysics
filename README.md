@@ -32,9 +32,8 @@
 [galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition.
 
 * [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb)
-* [1237667726440202290](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_1237667726440202290.ipynb)
+* [Cutout](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_cutout.ipynb)
 * [ROSAT All-Sky Survey](https://github.com/deltorobarba/astrophysics/blob/main/rosat.ipynb)
-* [Cutout](https://github.com/deltorobarba/astrophysics/blob/main/cutout.ipynb)
 * [Galaxy Dynamics](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb)
 
 <br>
