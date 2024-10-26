@@ -47,13 +47,13 @@
 
 [specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopic analysis. [PySpecKit](https://pyspeckit.readthedocs.io/en/latest/) specialized for spectroscopic analysis. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra. spectral-cube: For 3D spectral data cubes. ProSpect: For spectral energy distribution fitting.
 
-* [Sources](https://github.com/deltorobarba/astrophysics/blob/main/sources.ipynb) data from Irsa, SDSS, Vizier, Simbad, MAST, Splatalogue, Lightcurve
 * [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) from Chandra and ROSAT telescope, and HEASARC X
 * [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb) from Spitzer and James Webb Space Telescope
 * [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_radio.ipynb) spectral analysis from Splatalogue
 * [Visible-light Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_visiblelight.ipynb) from Hubble, James Webb Space Telescope, Very Large Telescope
 
-
+<br>
+[Sources & FITS](https://github.com/deltorobarba/astrophysics/blob/main/sources.ipynb) data from Irsa, SDSS, Vizier, Simbad, MAST, Splatalogue, Lightcurve
 <br>
 
 **General**: [astropy](https://www.astropy.org): for astronomy. [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data. [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases. [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net). [einsteinpy](https://einsteinpy.org) for general relativity calculations. [pynbody](https://pynbody.github.io/pynbody/) for N-body and hydrodynamical simulations. [APLpy](https://aplpy.readthedocs.io/en/stable/) for astronomical plotting. [photutils](https://photutils.readthedocs.io/en/stable/) for astronomical photometry. [ccdproc](https://ccdproc.readthedocs.io/en/latest/) for handling CCD image processing. [SEP](https://sep.readthedocs.io/en/v1.1.x/) for Source Extraction and Photometry. [astroplan](https://github.com/astropy/astroplan) for observation planning. [astroNN](https://astronn.readthedocs.io/en/stable/) Neural networks for astronomical data. [Mangadap](https://sdss-mangadap.readthedocs.io/en/latest/fitonespec.html) for analysis of MANGA galaxy survey data. [statmorph](https://statmorph.readthedocs.io/en/latest/) for morphological measurements.
