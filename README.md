@@ -43,7 +43,6 @@
 
 * [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) from Chandra and ROSAT telescope, and HEASARC X
 * [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb) from Spitzer and James Webb Space Telescope
-* [Radio Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_radio.ipynb) spectral analysis from Splatalogue
 
 <br>
 
