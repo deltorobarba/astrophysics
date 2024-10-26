@@ -42,7 +42,6 @@
 [specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopic analysis. [PySpecKit](https://pyspeckit.readthedocs.io/en/latest/) specialized for spectroscopic analysis. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra. spectral-cube: For 3D spectral data cubes. ProSpect: For spectral energy distribution fitting.
 
 * [X-Ray Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_xray.ipynb) from Chandra and ROSAT telescope, and HEASARC X
-* [Infrared Astronomy](https://github.com/deltorobarba/astrophysics/blob/main/spectroscopy_infrared.ipynb) from Spitzer and James Webb Space Telescope
 
 <br>
 
