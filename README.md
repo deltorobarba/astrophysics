@@ -33,7 +33,6 @@
 
 * [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb)
 * [Cutout](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_cutout.ipynb)
-* [ROSAT All-Sky Survey](https://github.com/deltorobarba/astrophysics/blob/main/rosat.ipynb)
 * [Galaxy Dynamics](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb)
 
 <br>
