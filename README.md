@@ -37,12 +37,6 @@
 * [Cutout](https://github.com/deltorobarba/astrophysics/blob/main/cutout.ipynb)
 * [Galaxy Dynamics](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb)
 
-## Black Holes
-
-[pykerr](https://github.com/cdcapano/pykerr) to get the frequency, damping time, and spheroidal harmonics of Kerr black holes. [PyCBC](https://pycbc.org/) explore astrophysical sources of gravitational waves. 
-
-* [Black Hole Saggitarius A*](https://github.com/deltorobarba/astrophysics/blob/main/blackhole_saggitarius_a.ipynb)
-
 ## Astronomical Spectroscopy
 
 [specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopic analysis. [PySpecKit](https://pyspeckit.readthedocs.io/en/latest/) specialized for spectroscopic analysis. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra. spectral-cube: For 3D spectral data cubes. ProSpect: For spectral energy distribution fitting.
@@ -63,3 +57,5 @@
 Stars: [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. sunpy: For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
 
 Nebulae: [photutils](https://photutils.readthedocs.io/en/stable/) detection and photometry incl. aperture and PSF. [ccdproc](https://ccdproc.readthedocs.io/en/latest/) reducing and calibrating CCD images. [specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopy. [reproject](https://reproject.readthedocs.io/en/stable/) image reprojection between WCS coordinate systems. [dust_extinction](https://dust-extinction.readthedocs.io/en/latest/) interstellar dust extinction calculations.
+
+Black Holes: [pykerr](https://github.com/cdcapano/pykerr) to get the frequency, damping time, and spheroidal harmonics of Kerr black holes. [PyCBC](https://pycbc.org/) explore astrophysical sources of gravitational waves. 
