@@ -12,7 +12,7 @@
 
 ## Exoplanets
 
-[lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters. [mr-plotter](https://github.com/castro-gzlz/mr-plotter) create mass-radius diagrams based on models of planetary interiors and atmospheres.
+[lightkurve](https://github.com/lightkurve/lightkurve) analyze flux data from Kepler & TESS. [exoplanet](https://docs.exoplanet.codes/en/latest/) probabilistic modeling of time series observations of exoplanets. [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) exoplanet orbital parameters.
 
 * [Trappist1](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_trappist1.ipynb) at 40 light years away
 * [HR 8799](https://github.com/deltorobarba/astrophysics/blob/main/exoplanet_HR8799.ipynb) at 130 light years away
