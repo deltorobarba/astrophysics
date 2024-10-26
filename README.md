@@ -27,12 +27,6 @@
 * [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170608.ipynb) from 08 Jun 2017
 * [GW170814](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170814.ipynb) from 14 Aug 2017
 
-## Stars
-
-[PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. sunpy: For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
-
-* [Stellar Spectrum](https://github.com/deltorobarba/astrophysics/blob/main/stellar_spectrum.ipynb)
-
 ## Galaxies
 
 [galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition.
@@ -50,12 +44,6 @@
 * [Black Hole Spectroscopy](https://github.com/deltorobarba/astrophysics/blob/main/blackhole_spectroscopy.ipynb)
 * [Black Hole Saggitarius A*](https://github.com/deltorobarba/astrophysics/blob/main/blackhole_saggitarius_a.ipynb)
 
-## Nebulae
-
-[photutils](https://photutils.readthedocs.io/en/stable/) detection and photometry incl. aperture and PSF. [ccdproc](https://ccdproc.readthedocs.io/en/latest/) reducing and calibrating CCD images. [specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopy. [reproject](https://reproject.readthedocs.io/en/stable/) image reprojection between WCS coordinate systems. [dust_extinction](https://dust-extinction.readthedocs.io/en/latest/) interstellar dust extinction calculations.
-
-* [M42 (Orion Nebula)](https://github.com/deltorobarba/astrophysics/blob/main/nebulae_M42.ipynb)
-
 ## Astronomical Spectroscopy
 
 [specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopic analysis. [PySpecKit](https://pyspeckit.readthedocs.io/en/latest/) specialized for spectroscopic analysis. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra. spectral-cube: For 3D spectral data cubes. ProSpect: For spectral energy distribution fitting.
@@ -70,3 +58,7 @@
 <br>
 
 **General**: [astropy](https://www.astropy.org): for astronomy. [astroml](https://www.astroml.org) statistical and machine learning routines for analyzing astronomical data. [Astroquery](https://astroquery.readthedocs.io/en/latest/) for querying astronomical web forms and databases. [PyVO](https://pyvo.readthedocs.io/en/latest/#getting-started) to find and retrieve astronomical data available from archives that support standard [IVOA virtual observatory service protocols](https://www.ivoa.net). [einsteinpy](https://einsteinpy.org) for general relativity calculations. [pynbody](https://pynbody.github.io/pynbody/) for N-body and hydrodynamical simulations. [APLpy](https://aplpy.readthedocs.io/en/stable/) for astronomical plotting. [photutils](https://photutils.readthedocs.io/en/stable/) for astronomical photometry. [ccdproc](https://ccdproc.readthedocs.io/en/latest/) for handling CCD image processing. [SEP](https://sep.readthedocs.io/en/v1.1.x/) for Source Extraction and Photometry. [astroplan](https://github.com/astropy/astroplan) for observation planning. [astroNN](https://astronn.readthedocs.io/en/stable/) Neural networks for astronomical data. [Mangadap](https://sdss-mangadap.readthedocs.io/en/latest/fitonespec.html) for analysis of MANGA galaxy survey data. [statmorph](https://statmorph.readthedocs.io/en/latest/) for morphological measurements.
+
+Stars: [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. sunpy: For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
+
+Nebulae: [photutils](https://photutils.readthedocs.io/en/stable/) detection and photometry incl. aperture and PSF. [ccdproc](https://ccdproc.readthedocs.io/en/latest/) reducing and calibrating CCD images. [specutils](https://specutils.readthedocs.io/en/stable/) for spectroscopy. [reproject](https://reproject.readthedocs.io/en/stable/) image reprojection between WCS coordinate systems. [dust_extinction](https://dust-extinction.readthedocs.io/en/latest/) interstellar dust extinction calculations.
