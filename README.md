@@ -33,7 +33,6 @@
 
 * [Galaxy Dynamics](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_dynamics.ipynb)
 * [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb) (stretch and scale)
-* [Cutout](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_cutout.ipynb)
 
 <br>
 
