@@ -26,6 +26,14 @@
 * [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170608.ipynb) from 08 Jun 2017
 * [GW170814](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170814.ipynb) from 14 Aug 2017
 
+## Galaxies
+
+[galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition.
+
+* [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb)
+* [SPT0346-52](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_SPT0346_52.ipynb)
+
+
 <br>
 
 [Sources & FITS](https://github.com/deltorobarba/astrophysics/blob/main/sources.ipynb) data from Irsa, SDSS, Vizier, Simbad, MAST, Splatalogue, Lightcurve
