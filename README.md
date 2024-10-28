@@ -30,14 +30,14 @@
 
 [galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition.
 
-* [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb) load FITS via SDSS
-* [SPT0346-52](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_SPT0346_52.ipynb) load FITS via MAST
-* [M31](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M31.ipynb) load FITS via IRSA
+* [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb) with FITS via SDSS
+* [SPT0346-52](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_SPT0346_52.ipynb) with FITS via MAST
+* [M31 galaxy](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M31.ipynb) with FITS via IRSA
 
 ## Stars
 
 [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. sunpy: For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
 
-* [A0620−00](https://github.com/deltorobarba/astrophysics/blob/main/star_A0620_00.ipynb) load FITS via HEASARC-X and RASS
+* [A0620−00](https://github.com/deltorobarba/astrophysics/blob/main/star_A0620_00.ipynb) with FITS via HEASARC-X and RASS
 
 <br>
