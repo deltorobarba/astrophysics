@@ -40,5 +40,3 @@
 * [A0620−00](https://github.com/deltorobarba/astrophysics/blob/main/star_A0620_00.ipynb) load FITS via HEASARC-X and RASS
 
 <br>
-
-[Sources & FITS](https://github.com/deltorobarba/astrophysics/blob/main/sources.ipynb) data from Irsa, SDSS, Vizier, Simbad, MAST, Splatalogue, Lightcurve
