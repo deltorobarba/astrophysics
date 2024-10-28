@@ -40,4 +40,8 @@
 
 * [A0620−00](https://github.com/deltorobarba/astrophysics/blob/main/star_A0620_00.ipynb) with FITS via HEASARC-X and RASS
 
+## Nebulae
+
+* [M42 (Orion)](https://github.com/deltorobarba/astrophysics/blob/main/nebula_M42.ipynb) with FITS via SDSS
+
 <br>
