@@ -33,6 +33,11 @@
 * [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb) load FITS via SDSS
 * [SPT0346-52](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_SPT0346_52.ipynb) load FITS via MAST
 
+## Stars
+
+[PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. sunpy: For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
+
+* [A0620−00](https://github.com/deltorobarba/astrophysics/blob/main/star_A0620_00.ipynb) load FITS via HEASARC
 
 <br>
 
