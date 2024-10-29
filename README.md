@@ -32,7 +32,7 @@
 
 * [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb) with FITS via SDSS
 * [SPT0346-52](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_SPT0346_52.ipynb) with FITS via MAST
-* [M31 galaxy](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M31.ipynb) with FITS via IRSA
+* [M31 galaxy](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M31.ipynb) with FITS via IRSA (Andromeda galaxy)
 
 ## Stars
 
