@@ -51,6 +51,6 @@
 
 ## Cosmology
 
-* [CMB](https://github.com/deltorobarba/astrophysics/blob/main/cmb.ipynb) Cosmic Microwave Backgroundx
+* [CMB](https://github.com/deltorobarba/astrophysics/blob/main/cmb.ipynb) Cosmic Microwave Background
 
 <br>
