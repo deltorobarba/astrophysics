@@ -43,6 +43,7 @@
 ## Nebulae
 
 * [M42 (Orion)](https://github.com/deltorobarba/astrophysics/blob/main/nebula_M42.ipynb) with FITS via SDSS
+* [NGC 602](https://github.com/deltorobarba/astrophysics/blob/main/nebula_NGC_602.ipynb) with FITS via IRSA
 
 ## Black Hole
 
