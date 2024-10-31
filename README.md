@@ -38,7 +38,7 @@
 
 [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. sunpy: For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
 
-* [A0620−00](https://github.com/deltorobarba/astrophysics/blob/main/star_A0620_00.ipynb) with FITS via HEASARC-X and RASS
+* [A0620−00](https://github.com/deltorobarba/astrophysics/blob/main/star_A0620_00.ipynb) (binary star system) with FITS from HEASARC-X and RASS
 
 ## Nebulae
 
