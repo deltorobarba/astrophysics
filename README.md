@@ -47,7 +47,7 @@
 
 ## Black Hole
 
-* [Sagittarius A*](https://github.com/deltorobarba/astrophysics/blob/main/blackhole_Sagittarius_A.ipynb) tidal forces with astropy
+* [Sagittarius A*](https://github.com/deltorobarba/astrophysics/blob/main/blackhole_Sagittarius_A.ipynb) calculate tidal forces
 
 ## Cosmology
 
