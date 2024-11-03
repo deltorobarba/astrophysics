@@ -54,9 +54,5 @@
 
 * [CMB](https://github.com/deltorobarba/astrophysics/blob/main/cmb.ipynb) Cosmic Microwave Background
 
-## Chemistry
-
-* [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/spectral_analysis.ipynb) Emission and absorption lines
-
 
 <br>
