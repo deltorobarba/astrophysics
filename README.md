@@ -47,13 +47,10 @@
 * [M42 (Orion)](https://github.com/deltorobarba/astrophysics/blob/main/nebula_M42.ipynb) with FITS via SDSS
 * [NGC 602](https://github.com/deltorobarba/astrophysics/blob/main/nebula_NGC_602.ipynb) with FITS via IRSA
 
-## Black Hole
-
-* [Sagittarius A*](https://github.com/deltorobarba/astrophysics/blob/main/blackhole_Sagittarius_A.ipynb) calculate tidal forces
-
 ## Cosmology
 
 * [CMB](https://github.com/deltorobarba/astrophysics/blob/main/cmb.ipynb) Cosmic Microwave Background
+* [Sagittarius A*](https://github.com/deltorobarba/astrophysics/blob/main/blackhole_Sagittarius_A.ipynb) Black hole to calculate tidal forces
 * [Quantum Telescopes](https://github.com/deltorobarba/astrophysics/blob/main/noon.ipynb) for Superresolution
 
 
