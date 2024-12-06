@@ -53,5 +53,25 @@
 * [Sagittarius A*](https://github.com/deltorobarba/astrophysics/blob/main/blackhole_Sagittarius_A.ipynb) Black hole to calculate tidal forces
 * [Quantum Telescopes](https://github.com/deltorobarba/astrophysics/blob/main/noon.ipynb) for Superresolution
 
+## Chemistry
+
+### Atoms
+
+* [Calcium (Ca)](https://github.com/deltorobarba/chemistry/blob/main/calcium_Ca.ipynb)
+* [Hydrogen (H)](https://github.com/deltorobarba/chemistry/blob/main/hydrogen_H.ipynb)
+* [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/spectral_analysis.ipynb) Emission and absorption lines
+
+### Molecules
+
+* [Ammonia NH3](https://github.com/deltorobarba/chemistry/blob/main/ammonia_NH3.ipynb)
+* [Benzene (C₆H₆)](https://github.com/deltorobarba/chemistry/blob/main/benzene_C6H6.ipynb)
+* [Carbon Dioxide (CO₂)](https://github.com/deltorobarba/chemistry/blob/main/carbon_dioxide_CO2.ipynb)
+* [Carbon Monoxide (CO)](https://github.com/deltorobarba/chemistry/blob/main/carbon_monoxide_CO.ipynb)
+* [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/chemistry/blob/main/hydrogen_H2.ipynb)
+* [Methane (CH₄)](https://github.com/deltorobarba/chemistry/blob/main/methane_CH4.ipynb)
+* [Pentacen (C22H14)](https://github.com/deltorobarba/chemistry/blob/main/pentacen_C22H14.ipynb)
+* [Water Molecule (H₂O)](https://github.com/deltorobarba/chemistry/blob/main/water_H2O.ipynb)
+
+
 
 <br>
