@@ -54,10 +54,7 @@
 ## Cosmology
 
 * [CMB](https://github.com/deltorobarba/astrophysics/blob/main/cmb.ipynb) Cosmic Microwave Background
-
-
-## Quantum Optics
-* [Entangled NOON States](https://github.com/deltorobarba/astrophysics/blob/main/noon.ipynb) for Superresolution
+* [Quantum Telescopes](https://github.com/deltorobarba/astrophysics/blob/main/noon.ipynb) for Superresolution
 
 
 <br>
