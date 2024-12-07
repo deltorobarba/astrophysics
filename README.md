@@ -53,23 +53,23 @@
 
 ## Cosmology
 
-* [CMB](https://github.com/deltorobarba/astrophysics/blob/main/cmb.ipynb) Cosmic Microwave Background
+* [CMB](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_cmb.ipynb) Cosmic Microwave Background
 * [Sagittarius A*](https://github.com/deltorobarba/astrophysics/blob/main/blackhole_Sagittarius_A.ipynb) Black hole to calculate tidal forces
-* [Quantum Telescopes](https://github.com/deltorobarba/astrophysics/blob/main/noon.ipynb) for Superresolution
+* [Quantum Telescopes](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_noon.ipynb) for Superresolution
 
 ## Chemistry
 
-* [Calcium (Ca)](https://github.com/deltorobarba/astrophysics/blob/main/calcium_Ca.ipynb)
-* [Hydrogen (H)](https://github.com/deltorobarba/astrophysics/blob/main/hydrogen_H.ipynb)
-* [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/spectral_analysis.ipynb) Emission and absorption lines
-* [Ammonia NH3](https://github.com/deltorobarba/astrophysics/blob/main/ammonia_NH3.ipynb)
-* [Benzene (C₆H₆)](https://github.com/deltorobarba/astrophysics/blob/main/benzene_C6H6.ipynb)
-* [Carbon Dioxide (CO₂)](https://github.com/deltorobarba/astrophysics/blob/main/carbon_dioxide_CO2.ipynb)
-* [Carbon Monoxide (CO)](https://github.com/deltorobarba/astrophysics/blob/main/carbon_monoxide_CO.ipynb)
-* [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/astrophysics/blob/main/hydrogen_H2.ipynb)
-* [Methane (CH₄)](https://github.com/deltorobarba/astrophysics/blob/main/methane_CH4.ipynb)
-* [Pentacen (C22H14)](https://github.com/deltorobarba/astrophysics/blob/main/pentacen_C22H14.ipynb)
-* [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/water_H2O.ipynb)
+* [Calcium (Ca)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_calcium_Ca.ipynb)
+* [Hydrogen (H)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H.ipynb)
+* [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_spectral_analysis.ipynb) Emission and absorption lines
+* [Ammonia NH3](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_ammonia_NH3.ipynb)
+* [Benzene (C₆H₆)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_benzene_C6H6.ipynb)
+* [Carbon Dioxide (CO₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_carbon_dioxide_CO2.ipynb)
+* [Carbon Monoxide (CO)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_carbon_monoxide_CO.ipynb)
+* [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H2.ipynb)
+* [Methane (CH₄)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_methane_CH4.ipynb)
+* [Pentacen (C22H14)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_pentacen_C22H14.ipynb)
+* [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_water_H2O.ipynb)
 
 
 
