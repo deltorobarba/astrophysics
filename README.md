@@ -39,6 +39,11 @@
 * [Hickson 88 group](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_Hickson_88.ipynb) in Aquarius with composite RGB FITS
 * [IRSA](https://github.com/deltorobarba/astrophysics/blob/main/irsa.ipynb) Short guide into working with data from IRSA catalog
 
+## Nebulae
+
+* [M42 (Orion)](https://github.com/deltorobarba/astrophysics/blob/main/nebula_M42.ipynb) with FITS via SDSS
+* [NGC 602](https://github.com/deltorobarba/astrophysics/blob/main/nebula_NGC_602.ipynb) with FITS via IRSA
+
 ## Stars
 
 [PyORBIT](https://github.com/LucaMalavolta/PyORBIT) for stellar activity. [FASMA 2.0](https://github.com/MariaTsantaki/FASMA-synthesis) for stellar parameters and chemical abundances. sunpy: For solar physics. [SPLAT](https://pypi.org/project/splat/) specifically for stellar and brown dwarf spectra.
@@ -46,11 +51,6 @@
 * [A0620−00](https://github.com/deltorobarba/astrophysics/blob/main/star_A0620_00.ipynb) (binary star system) with FITS from HEASARC-X and RASS
 * [Solar Flares](https://github.com/deltorobarba/astrophysics/blob/main/star_solarflare.ipynb) with data from GOES
 * [Sagittarius A*](https://github.com/deltorobarba/astrophysics/blob/main/star_blackhole_Sagittarius_A.ipynb) Black hole to calculate tidal forces
-
-## Nebulae
-
-* [M42 (Orion)](https://github.com/deltorobarba/astrophysics/blob/main/nebula_M42.ipynb) with FITS via SDSS
-* [NGC 602](https://github.com/deltorobarba/astrophysics/blob/main/nebula_NGC_602.ipynb) with FITS via IRSA
 
 ## Cosmology
 
