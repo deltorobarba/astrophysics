@@ -62,7 +62,7 @@
 ## Chemistry
 
 * [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_spectral_analysis.ipynb) Emission and absorption lines
-* [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_water_H2O.ipynb) Single-Point Calculations, Full Geometry and Molecular Dynamics. First and Second Quantization.
+* [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_water_H2O.ipynb) Single-Point Calculations and Full Geometry. First and Second Quantization.
 * [Hydrogen (H)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H.ipynb)
 * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H2.ipynb)
 * [Calcium (Ca)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_calcium_Ca.ipynb)
