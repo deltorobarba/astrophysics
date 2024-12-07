@@ -36,6 +36,7 @@
 * [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb) with FITS via SDSS (start with FITS file, load manually)
 * [SPT0346-52](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_SPT0346_52.ipynb) with FITS via MAST
 * [Hickson 88 group](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_Hickson_88.ipynb) in Aquarius with composite RGB FITS
+* [IRSA](https://github.com/deltorobarba/astrophysics/blob/main/irsa.ipynb) Guide into working with data from IRSA catalog
 
 ## Stars
 
