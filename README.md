@@ -45,6 +45,7 @@
 
 * [A0620−00](https://github.com/deltorobarba/astrophysics/blob/main/star_A0620_00.ipynb) (binary star system) with FITS from HEASARC-X and RASS
 * [Solar Flares](https://github.com/deltorobarba/astrophysics/blob/main/star_solarflare.ipynb) with data from GOES
+* [Sagittarius A*](https://github.com/deltorobarba/astrophysics/blob/main/star_blackhole_Sagittarius_A.ipynb) Black hole to calculate tidal forces
 
 ## Nebulae
 
@@ -54,7 +55,6 @@
 ## Cosmology
 
 * [CMB](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_cmb.ipynb) Cosmic Microwave Background
-* [Sagittarius A*](https://github.com/deltorobarba/astrophysics/blob/main/blackhole_Sagittarius_A.ipynb) Black hole to calculate tidal forces
 * [FLRW metric (Robertson-Walker-Metric)](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_flrw.ipynb)
 * [Cosmological Expansion of the Universe](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_expansion.ipynb)
 * [Quantum Telescopes](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_noon.ipynb) for Superresolution
