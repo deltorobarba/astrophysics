@@ -61,9 +61,10 @@
 
 ## Chemistry
 
+* [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_spectral_analysis.ipynb) Emission and absorption lines
+* [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_water_H2O.ipynb) Single-Point Calculations, Full Geometry and Molecular Dynamics. First and Second Quantization.
 * [Calcium (Ca)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_calcium_Ca.ipynb)
 * [Hydrogen (H)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H.ipynb)
-* [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_spectral_analysis.ipynb) Emission and absorption lines
 * [Ammonia NH3](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_ammonia_NH3.ipynb)
 * [Benzene (C₆H₆)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_benzene_C6H6.ipynb)
 * [Carbon Dioxide (CO₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_carbon_dioxide_CO2.ipynb)
@@ -71,7 +72,7 @@
 * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H2.ipynb)
 * [Methane (CH₄)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_methane_CH4.ipynb)
 * [Pentacen (C22H14)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_pentacen_C22H14.ipynb)
-* [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_water_H2O.ipynb)
+
 
 
 
