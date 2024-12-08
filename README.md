@@ -50,7 +50,6 @@
 ## Cosmology
 
 * [CMB](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_cmb.ipynb) Cosmic Microwave Background
-* [FLRW metric (Robertson-Walker-Metric)](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_flrw.ipynb)
 * [Cosmological Expansion of the Universe](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_expansion.ipynb)
 * [Quantum Telescopes](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_noon.ipynb) for Superresolution
 
