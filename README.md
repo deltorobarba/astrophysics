@@ -1,4 +1,4 @@
-# Astrophysics 
+# Astrophysics Chemistry
 
 ### Alexander Del Toro Barba, PhD
 
