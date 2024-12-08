@@ -32,11 +32,9 @@
 
 * [M31 (Andromeda)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M31.ipynb) with FITS via IRSA (start with name, then get coordinates and FITS)
 * [M104 (Sombrero)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M104.ipynb) with FITS via IRSA (start with name, then get coordinates and FITS)
-* [M104 (Sombrero) - JWST](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M104_JWST.ipynb) with FITS via MAST to get latest data from James Webb telescope
 * [COSMOS2015 591406)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_COSMOS2015_591406.ipynb) with FITS via IRSA (start with coordinates, then get name and FITS)
-* [NGC 6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb) with FITS via SDSS (start with FITS file, load manually)
 * [SPT0346-52](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_SPT0346_52.ipynb) with FITS via MAST
-* [Hickson 88 group](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_Hickson_88.ipynb) in Aquarius with composite RGB FITS
+* [Hickson 88](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_Hickson_88.ipynb) in Aquarius with composite RGB FITS
 * [IRSA](https://github.com/deltorobarba/astrophysics/blob/main/irsa.ipynb) Short guide into working with data from IRSA catalog
 
 ## Nebulae
