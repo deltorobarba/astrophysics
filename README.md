@@ -35,7 +35,6 @@
 * [COSMOS2015 591406)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_COSMOS2015_591406.ipynb) with FITS via IRSA (start with coordinates, then get name and FITS)
 * [SPT0346-52](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_SPT0346_52.ipynb) with FITS via MAST
 * [Hickson 88](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_Hickson_88.ipynb) in Aquarius with composite RGB FITS
-* [IRSA](https://github.com/deltorobarba/astrophysics/blob/main/irsa.ipynb) Short guide into working with data from IRSA catalog
 
 ## Nebulae
 
