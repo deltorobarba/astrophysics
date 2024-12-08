@@ -60,8 +60,6 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 * [Methane (CH₄)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_methane_CH4.ipynb)
 * [Hydrogen (H)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H.ipynb)
 * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H2.ipynb)
-* [Carbon Dioxide (CO₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_carbon_dioxide_CO2.ipynb)
-* [Carbon Monoxide (CO)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_carbon_monoxide_CO.ipynb)
 
 
 
