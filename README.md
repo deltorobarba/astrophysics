@@ -60,6 +60,7 @@
 * [Quantum Telescopes](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_noon.ipynb) for Superresolution
 
 ## Chemistry
+Calculation of Emission and Absorption lines of elements and molecules, Calculation of ground state energies with Single-Point Calculations (Hartree Fock SCF, DFT) and Full Geometry. First and Second Quantization. Tests on second quantization with quantum computing usintg [openfermion](https://quantumai.google/openfermion/tutorials/intro_to_openfermion).
 
 * [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_spectral_analysis.ipynb) Emission and absorption lines of different elements
 * [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_water_H2O.ipynb) Single-Point Calculations and Full Geometry. First and Second Quantization.
