@@ -59,7 +59,6 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 * [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_water_H2O.ipynb) Single-Point Calculations and Full Geometry. First and Second Quantization.
 * [Hydrogen (H)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H.ipynb)
 * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H2.ipynb)
-* [Ammonia NH3](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_ammonia_NH3.ipynb)
 * [Benzene (C₆H₆)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_benzene_C6H6.ipynb)
 * [Carbon Dioxide (CO₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_carbon_dioxide_CO2.ipynb)
 * [Carbon Monoxide (CO)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_carbon_monoxide_CO.ipynb)
