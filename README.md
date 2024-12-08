@@ -64,8 +64,6 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 * [Carbon Dioxide (CO₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_carbon_dioxide_CO2.ipynb)
 * [Carbon Monoxide (CO)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_carbon_monoxide_CO.ipynb)
 * [Methane (CH₄)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_methane_CH4.ipynb)
-* [Pentacen (C22H14)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_pentacen_C22H14.ipynb)
-
 
 
 
