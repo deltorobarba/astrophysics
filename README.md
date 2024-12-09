@@ -32,8 +32,8 @@
 
 * [M31 (Andromeda)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M31.ipynb) with FITS via IRSA (start with name, then get coordinates and FITS)
 * [M104 (Sombrero)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M104.ipynb) with FITS via IRSA (start with name, then get coordinates and FITS)
+* [NGC_6975](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb) in Aquarius with composite RGB FITS (combine green, red and infrared filter, and apply ZScaleInterval)
 * [Cosmos 2015](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_COSMOS2015_591406.ipynb) with FITS via IRSA (start with coordinates, then get name and FITS)
-* [Hickson 88](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_Hickson_88.ipynb) in Aquarius with composite RGB FITS (combine green, red and infrared filter, and apply ZScaleInterval)
 
 ## Nebulae
 
