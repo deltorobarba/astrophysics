@@ -64,6 +64,7 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H2.ipynb)
 * [Hydrogen (H)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H.ipynb)
 * [Methane (CH₄)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_methane_CH4.ipynb)
+* [Ammonia (NH₃)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_ammonia_NH3.ipynb)
 
 
 
