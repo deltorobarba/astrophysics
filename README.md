@@ -59,9 +59,9 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 
 * [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_spectral_analysis.ipynb)
 * [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_water_H2O.ipynb)
-* [Methane (CH₄)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_methane_CH4.ipynb)
 * [Hydrogen (H)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H.ipynb)
 * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H2.ipynb)
+* [Methane (CH₄)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_methane_CH4.ipynb)
 
 
 
