@@ -41,7 +41,7 @@
 
 [astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA. [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object. 
 
-* [M42 (Orion)](https://github.com/deltorobarba/astrophysics/blob/main/nebula_M42.ipynb) with FITS via SDSS
+* [M42 (Orion)](https://github.com/deltorobarba/astrophysics/blob/main/nebula_M42.ipynb) diffuse nebula situated in Milky Way at 1.3 light years distance
 * [NGC 602](https://github.com/deltorobarba/astrophysics/blob/main/nebula_NGC_602.ipynb) with FITS via IRSA
 
 ## Stars
