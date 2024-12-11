@@ -32,6 +32,7 @@
 
 * [M31 (Andromeda)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M31.ipynb) with FITS via IRSA (start with name, then get coordinates and FITS)
 * [M104 (Sombrero)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M104.ipynb) with FITS via IRSA (start with name, then get coordinates and FITS)
+* [NGC 266](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_266.ipynb) with FITS via IRSA (start with name, then get coordinates and FITS)
 * [Abell 2125](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_Abell_2125.ipynb) with FITS via IRSA (start with name, then get coordinates and FITS)
 * [NGC 6975 (Hickson)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb) load composite RGB FITS from source (and ZScaleInterval)
 * [Cosmos 2015](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_COSMOS2015_591406.ipynb) with FITS via IRSA (start with coordinates, then get name and FITS)
