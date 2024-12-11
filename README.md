@@ -30,8 +30,8 @@
 
 [galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition.
 
-* [M31 (Andromeda)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M31.ipynb) with FITS via IRSA (start with name, then get coordinates and FITS)
-* [M104 (Sombrero)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M104.ipynb) with FITS via IRSA (start with name, then get coordinates and FITS)
+* [M31 (Andromeda)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M31.ipynb) barred spiral galaxy at 2.5 mio light years distance
+* [M104 (Sombrero)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M104.ipynb) peculiar galaxy of unclear classification at 31 mio light years distance
 * [NGC 266](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_266.ipynb) barred spiral galaxy at 197 mio light years distance
 * [Abell 2125](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_Abell_2125.ipynb) with FITS via IRSA (start with name, then get coordinates and FITS)
 * [NGC 6975 (Hickson)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb) load composite RGB FITS from source (and ZScaleInterval)
