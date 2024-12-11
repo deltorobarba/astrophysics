@@ -28,7 +28,7 @@
 
 ## Galaxies
 
-[galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition. Infrared data from IRSA (e.g. Spitzer) and X-Ray data from HEASARC (e.g. Chandra).
+[galpy](https://docs.galpy.org/en/v1.10.0/) simulating galactic dynamics. [ProFit](https://pypi.org/project/profit/) for galaxy profile fitting. [imfit](https://pyimfit.readthedocs.io/en/latest/overview.html) for galaxy image fitting. [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html) for professional galaxy decomposition. Infrared data from IRSA (e.g. Spitzer) and X-Ray data from [HEASARC](https://heasarc.gsfc.nasa.gov/docs/heasarc/xrayback.html) (e.g. Chandra).
 
 * [M31 (Andromeda)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M31.ipynb) barred spiral galaxy at 2.5 mio light years distance
 * [M104 (Sombrero)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M104.ipynb) galaxy of unclear classification at 31 mio light years distance
