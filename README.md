@@ -62,7 +62,7 @@
 ## Quantum
 Personal notes from last years on quantum mechanics and quantum algorithms.
 
-* [Quantum Mechanics](https://github.com/deltorobarba/astrophysics/blob/main/quantum.ipynb) with Quantum Information Theory
+* [Quantum Mechanics](https://github.com/deltorobarba/astrophysics/blob/main/quantum.ipynb)
 * [Quantum Fourier Transform](https://github.com/deltorobarba/astrophysics/blob/main/quantum_fourier.ipynb)
 * [Quantum Phase Estimation](https://github.com/deltorobarba/astrophysics/blob/main/quantum_phase.ipynb)
 * [Grover's Search](https://github.com/deltorobarba/astrophysics/blob/main/quantum_grover.ipynb)
