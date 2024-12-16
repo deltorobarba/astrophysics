@@ -59,11 +59,6 @@
 * [CMB](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_cmb.ipynb) Cosmic Microwave Background as WMAP visualization
 * [Cosmology Distance](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_distance.ipynb) Comoving distance and more. Redshift at given value of a cosmological quantity.
 
-## Quantum
-Personal notes from last years on quantum mechanics and quantum algorithms.
-
-* [Quantum Mechanics](https://github.com/deltorobarba/sciences/blob/main/quantum.ipynb)
-
 ## Chemistry
 Calculation of emission lines, absorption lines and vibrational frequencies of elements and molecules with [pyscf](https://pyscf.org). Calculation of ground state energies in **First Quantization** with *Single-Point Calculations* (Hartree-Fock-SCF, DFT) and *Full Geometry* for different basis sets, and in **Second Quantization**: *Single-Point calculations* based on Post-Hartree-Fock (Coupled Cluster, Møller-Plesset Perturbation, Configuration Interaction), and Quantum algorithms (Variational Quantum Eigensolver) using [openfermion](https://quantumai.google/openfermion/tutorials/intro_to_openfermion).
 
