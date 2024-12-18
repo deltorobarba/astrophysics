@@ -25,6 +25,7 @@
 * [GW150914](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW150914.ipynb) from 14 Sep 2015
 * [GW170608](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170608.ipynb) from 08 Jun 2017
 * [GW170814](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_GW170814.ipynb) from 14 Aug 2017
+* [HFGW](https://github.com/deltorobarba/astrophysics/blob/main/graviationalwave_HFGW.ipynb) High-frequency gravitational waves (>10 kHz)
 
 ## Galaxies
 
