@@ -61,7 +61,7 @@
 * [Cosmology Distance](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_distance.ipynb) Comoving distance and more. Redshift at given value of a cosmological quantity.
 
 ## Data
-* [Missions](https://github.com/deltorobarba/astrophysics/blob/main/missions.ipynb) Code to query IRSA (Infrared, Near-Infrared), HEASARC (X-Ray, Gamma Ray)
+* [Missions](https://github.com/deltorobarba/astrophysics/blob/main/missions.ipynb) Code to query IRSA (Infrared, Near-Infrared), HEASARC (Ultraviolet, X-Ray, Gamma Ray)
 
 
 ## Chemistry
