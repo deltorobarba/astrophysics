@@ -43,6 +43,7 @@
 [astroquery](https://astroquery.readthedocs.io/en/latest/) to load image data from IRSA. [Simbad](https://simbad.cds.unistra.fr/simbad/) to get exact coordinates of a searched object. 
 
 * [M42 (Orion)](https://github.com/deltorobarba/astrophysics/blob/main/nebula_M42.ipynb) diffuse nebula situated in Milky Way at 1.3 light years distance
+* [NGC 3372 (Carina)](https://github.com/deltorobarba/astrophysics/blob/main/nebula_NGC_3372.ipynb) large, complex area of bright and dark nebulosity at 8,500 light years distance
 * [NGC 602](https://github.com/deltorobarba/astrophysics/blob/main/nebula_NGC_602.ipynb) young star cluster surrounded by emission nebula near Small Magellanic Cloud 200k light years away
 * [IC 430](https://github.com/deltorobarba/astrophysics/blob/main/nebula_IC_430.ipynb) with protostar V883 Orionis, member of the Orion Nebula cluster at 1,300 light years distance
 
