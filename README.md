@@ -32,7 +32,7 @@
 
 * [M31 (Andromeda)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M31.ipynb) barred spiral galaxy at 2.5 mio light years distance
 * [M104 (Sombrero)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M104.ipynb) galaxy of unclear classification at 31 mio light years distance
-* [M51 (Whirpool)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M51.ipynb) an interacting grand-design spiral galaxy with a Seyfert 2 active galactic nucleus at 23 mio light years distance
+* [M51 (Whirpool)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_M51.ipynb) an interacting grand-design spiral galaxy at 23 mio light years distance
 * [NGC 266](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_266.ipynb) barred spiral galaxy at 197 mio light years distance
 * [Abell 2125](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_Abell_2125.ipynb) galaxy cluster at 3 billion light years distance
 * [NGC 6975 (Hickson)](https://github.com/deltorobarba/astrophysics/blob/main/galaxy_NGC_6975.ipynb) spiral galaxy at 273 mio light years distance
