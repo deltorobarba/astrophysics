@@ -62,8 +62,10 @@
 * [CMB](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_cmb.ipynb) Cosmic Microwave Background as WMAP visualization
 * [Cosmology Distance](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_distance.ipynb) Comoving distance and more. Redshift at given value of a cosmological quantity.
 
-## Data
+## Mission Data
 * [Missions](https://github.com/deltorobarba/astrophysics/blob/main/missions.ipynb) Code to query IRSA (Infrared, Near-Infrared), HEASARC (Ultraviolet, X-Ray, Gamma Ray)
+* [Gallery](https://github.com/deltorobarba/astrophysics/blob/main/gallery.ipynb) Images of different astronomical objects (galaxies, nebulae)
+
 
 
 ## Chemistry
