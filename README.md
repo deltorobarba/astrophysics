@@ -87,11 +87,11 @@ The combination of quantum sensing, quantum communication and quantum computing 
 
 * [Quantum Mechanics](https://github.com/deltorobarba/astrophysics/blob/main/quantum.ipynb)
 * [Quantum Fourier Transform](https://github.com/deltorobarba/astrophysics/blob/main/qft.ipynb)
-* [Quantum Phase Estimation Transform](https://github.com/deltorobarba/astrophysics/blob/main/qpe.ipynb)
-* [HHL](https://github.com/deltorobarba/astrophysics/blob/main/hhl.ipynb)
-* [Shor](https://github.com/deltorobarba/astrophysics/blob/main/shor.ipynb)
-* [Grover](https://github.com/deltorobarba/astrophysics/blob/main/grover.ipynb)
-* [Encoding](https://github.com/deltorobarba/astrophysics/blob/main/encoding.ipynb)
+* [Quantum Phase Estimation](https://github.com/deltorobarba/astrophysics/blob/main/qpe.ipynb)
+* [HHL algorithm](https://github.com/deltorobarba/astrophysics/blob/main/hhl.ipynb)
+* [Shor's algorithm](https://github.com/deltorobarba/astrophysics/blob/main/shor.ipynb)
+* [Grover's search algorithm](https://github.com/deltorobarba/astrophysics/blob/main/grover.ipynb)
+* [Encoding (Embedding)](https://github.com/deltorobarba/astrophysics/blob/main/encoding.ipynb)
 * [Quantum Complexity](https://github.com/deltorobarba/astrophysics/blob/main/complexity.ipynb)
 * [CERN 2022](https://github.com/deltorobarba/astrophysics/blob/main/cern.ipynb) Quantum Computing in High-Energy Physics
 
