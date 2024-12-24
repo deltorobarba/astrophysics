@@ -87,6 +87,10 @@ The combination of quantum sensing, quantum communication and quantum computing 
 
 * [Quantum Mechanics](https://github.com/deltorobarba/astrophysics/blob/main/quantum.ipynb)
 * [Quantum Fourier Transform](https://github.com/deltorobarba/astrophysics/blob/main/qft.ipynb)
+* [Quantum Phase Estimation Transform](https://github.com/deltorobarba/astrophysics/blob/main/qpe.ipynb)
+* [HHL](https://github.com/deltorobarba/astrophysics/blob/main/hhl.ipynb)
+* [Shor](https://github.com/deltorobarba/astrophysics/blob/main/shor.ipynb)
+* [Grover](https://github.com/deltorobarba/astrophysics/blob/main/grover.ipynb)
 * [Quantum Complexity](https://github.com/deltorobarba/astrophysics/blob/main/complexity.ipynb)
 * [CERN 2022](https://github.com/deltorobarba/astrophysics/blob/main/cern.ipynb) Quantum Computing in High-Energy Physics
 
