@@ -63,12 +63,12 @@
 * [Cosmology Distance](https://github.com/deltorobarba/astrophysics/blob/main/cosmology_distance.ipynb) Comoving distance and more. Redshift at given value of a cosmological quantity.
 
 ## Mission Data
-* [FITS](https://github.com/deltorobarba/astrophysics/blob/main/mission_fits.ipynb) FITS file analysis
-* [MAST](https://github.com/deltorobarba/astrophysics/blob/main/mission_mast.ipynb) visible-light images from space-based mission (HST, TESS, etc.)
-* [SDSS](https://github.com/deltorobarba/astrophysics/blob/main/mission_sdss.ipynb) visible-light images from space-based mission (HST, TESS, etc.)
-* [IRSA](https://github.com/deltorobarba/astrophysics/blob/main/mission_irsa.ipynb) infrared and near-infrared images from missions
-* [HEASARC](https://github.com/deltorobarba/astrophysics/blob/main/mission_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions
-* [CASDA, NRAO, ATNF](https://github.com/deltorobarba/astrophysics/blob/main/mission_radio.ipynb) radio-wave astronomy from CASDA, NRAO, ATNF telescopes
+* [FITS](https://github.com/deltorobarba/astrophysics/blob/main/missions_fits.ipynb) FITS file analysis
+* [MAST](https://github.com/deltorobarba/astrophysics/blob/main/missions_mast.ipynb) visible-light images from space-based mission (HST, TESS, etc.)
+* [SDSS](https://github.com/deltorobarba/astrophysics/blob/main/missions_sdss.ipynb) visible-light images from space-based mission (HST, TESS, etc.)
+* [IRSA](https://github.com/deltorobarba/astrophysics/blob/main/missions_irsa.ipynb) infrared and near-infrared images from missions
+* [HEASARC](https://github.com/deltorobarba/astrophysics/blob/main/missions_heasarc.ipynb) ultraviolet, x-ray and gamma ray data from missions
+* [CASDA, NRAO, ATNF](https://github.com/deltorobarba/astrophysics/blob/main/missions_radio.ipynb) radio-wave astronomy from CASDA, NRAO, ATNF telescopes
 
 
 ## Chemistry
