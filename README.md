@@ -91,6 +91,7 @@ The combination of quantum sensing, quantum communication and quantum computing 
 * [HHL](https://github.com/deltorobarba/astrophysics/blob/main/hhl.ipynb)
 * [Shor](https://github.com/deltorobarba/astrophysics/blob/main/shor.ipynb)
 * [Grover](https://github.com/deltorobarba/astrophysics/blob/main/grover.ipynb)
+* [Encoding](https://github.com/deltorobarba/astrophysics/blob/main/encoding.ipynb)
 * [Quantum Complexity](https://github.com/deltorobarba/astrophysics/blob/main/complexity.ipynb)
 * [CERN 2022](https://github.com/deltorobarba/astrophysics/blob/main/cern.ipynb) Quantum Computing in High-Energy Physics
 
