@@ -95,4 +95,11 @@ The combination of quantum sensing, quantum communication and quantum computing 
 * [Quantum Complexity](https://github.com/deltorobarba/astrophysics/blob/main/complexity.ipynb)
 * [CERN 2022](https://github.com/deltorobarba/astrophysics/blob/main/cern.ipynb) Quantum Computing in High-Energy Physics
 
+## Natural Sciences
+
+* [Chemistry](https://github.com/deltorobarba/astrophysics/blob/main/chemistry.ipynb) Chemical Reactions, Chemical Bonds, Analytical Chemistry, Organic Chemistry
+* [Biology](https://github.com/deltorobarba/astrophysics/blob/main/biology.ipynb) Biochemistry, Genetics, Evolution, Anthropology
+* [Physics](https://github.com/deltorobarba/astrophysics/blob/main/physics.ipynb) Astronomy, Special & General Relativity, Quantum Field Theory
+* [Mathematics](https://github.com/deltorobarba/astrophysics/blob/main/maths.ipynb) Algebra, Geometry, Analysis, Stochastic
+
 <br>
