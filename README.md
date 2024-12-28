@@ -87,7 +87,7 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 ## Quantum
 The combination of quantum sensing, quantum communication and quantum computing can offer advantages for astrophysical research, such as quantum computing in high-energy physics or quantum sensing for super-resolution with quantum optics in exoplanet research (e.g. entangled Noon states).
 
-* [Quantum Mechanics](https://github.com/deltorobarba/sciences/blob/main/quantum.ipynb)
+* [Quantum Mechanics](https://github.com/deltorobarba/astrophysics/blob/main/quantum.ipynb)
 * [Complexity Theory](https://github.com/deltorobarba/astrophysics/blob/main/complexity.ipynb)
 * [Quantum Fourier Transform](https://github.com/deltorobarba/astrophysics/blob/main/qft.ipynb)
 * [Quantum Phase Estimation](https://github.com/deltorobarba/astrophysics/blob/main/qpe.ipynb)
