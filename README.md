@@ -84,15 +84,4 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 * [Methane (CH₄)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_methane_CH4.ipynb)
 * [Ammonia (NH₃)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_ammonia_NH3.ipynb)
 
-## Quantum
-The combination of quantum sensing, quantum communication and quantum computing can offer advantages for astrophysical research, such as quantum computing in high-energy physics or quantum sensing for super-resolution with quantum optics in exoplanet research (e.g. entangled Noon states).
-
-* [Quantum Mechanics](https://github.com/deltorobarba/sciences/blob/main/quantum.ipynb)
-* [Quantum Fourier Transform](https://github.com/deltorobarba/astrophysics/blob/main/qft.ipynb)
-* [Quantum Phase Estimation](https://github.com/deltorobarba/astrophysics/blob/main/qpe.ipynb)
-* [HHL algorithm](https://github.com/deltorobarba/astrophysics/blob/main/hhl.ipynb)
-* [Shor's algorithm](https://github.com/deltorobarba/astrophysics/blob/main/shor.ipynb)
-* [Grover's search algorithm](https://github.com/deltorobarba/astrophysics/blob/main/grover.ipynb)
-* [Encoding (Embedding)](https://github.com/deltorobarba/astrophysics/blob/main/encoding.ipynb)
-
 <br>
