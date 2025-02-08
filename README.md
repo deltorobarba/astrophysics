@@ -89,11 +89,11 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 * [Complexity](https://github.com/deltorobarba/astrophysics/blob/main/complexity.ipynb) 
 * [Quantum Fourier Transform](https://github.com/deltorobarba/astrophysics/blob/main/quantum_fourier_transform.ipynb)
 * [Quantum Phase Estimation](https://github.com/deltorobarba/astrophysics/blob/main/quantum_phase_estimation.ipynb)
-* [HHL algorithm](https://github.com/deltorobarba/astrophysics/blob/main/hhl_algorithm.ipynb)
-* [Shor's algorithm](https://github.com/deltorobarba/astrophysics/blob/main/shors_algorithm.ipynb)
-* [Grover's search algorithm](https://github.com/deltorobarba/astrophysics/blob/main/grover_search.ipynb)
+* [HHL algorithm](https://github.com/deltorobarba/astrophysics/blob/main/hhl.ipynb)
+* [Shor's algorithm](https://github.com/deltorobarba/astrophysics/blob/main/shor.ipynb)
+* [Grover's search algorithm](https://github.com/deltorobarba/astrophysics/blob/main/grover.ipynb)
 * [Encoding (Embedding)](https://github.com/deltorobarba/astrophysics/blob/main/encoding.ipynb)
 * [Superdense Coding](https://github.com/deltorobarba/astrophysics/blob/main/superdense_coding.ipynb)
-* [CERN 2022](https://github.com/deltorobarba/astrophysics/blob/main/cern.ipynb.ipynb) 
+* [CERN 2022](https://github.com/deltorobarba/astrophysics/blob/main/cern.ipynb) 
 
 <br>
