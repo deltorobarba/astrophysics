@@ -84,7 +84,6 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 * [Methane (CH₄)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_methane_CH4.ipynb)
 * [Ammonia (NH₃)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_ammonia_NH3.ipynb)
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="quantum">
 
 ## Quantum
 
@@ -94,6 +93,7 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 * [CERN 2022](https://github.com/deltorobarba/quantum/astrophysics/main/cern.ipynb) 
 
 
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="quantum">
 
 
 <br>
