@@ -92,6 +92,7 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 * [Quantum Algorithms](https://github.com/deltorobarba/sciences/blob/main/maths.ipynb)
 * [CERN 2022](https://github.com/deltorobarba/quantum/astrophysics/main/cern.ipynb) 
 
+<br>
 
 <img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="quantum">
 
