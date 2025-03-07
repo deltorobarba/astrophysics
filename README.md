@@ -77,15 +77,15 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
 ## Chemistry
 Calculation of emission lines, absorption lines and vibrational frequencies of elements and molecules with [pyscf](https://pyscf.org). Calculation of ground state energies in **First Quantization** with *Single-Point Calculations* (Hartree-Fock-SCF, DFT) and *Full Geometry* for different basis sets, and in **Second Quantization**: *Single-Point calculations* based on Post-Hartree-Fock (Coupled Cluster, Møller-Plesset Perturbation, Configuration Interaction), and Quantum algorithms (Variational Quantum Eigensolver) using [openfermion](https://quantumai.google/openfermion/tutorials/intro_to_openfermion).
 
-Static Calculations (No Nuclear Motion Considered During the Calculation)
-* Single-Point Energy Calculations: These calculate the energy and properties at a fixed geometry (foundation)
+**Static Calculations** (No Nuclear Motion Considered During the Calculation)
+* Single-Point Energy Calculations (calculate the energy and properties at a fixed geometry)
   * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/astrophysics/blob/main/hartree_fock.ipynb) (Wavefunction-based / Hartree Fock)
   * [Coupled Cluster (CC)](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb) (Wavefunction-based / Post-Hartree Fock)
-  * [Møller-Plesset Perturbation Theory (MPn)](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb)  (Wavefunction-based / Post-Hartree Fock)
-  * [Configuration Interaction (CI)](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb)  (Wavefunction-based / Post-Hartree Fock)
+  * [Møller-Plesset Perturbation Theory (MPn)](https://github.com/deltorobarba/astrophysics/blob/main/moeller_plesset.ipynb)  (Wavefunction-based / Post-Hartree Fock)
+  * [Configuration Interaction (CI)](https://github.com/deltorobarba/astrophysics/blob/main/configuration_interaction.ipynb)  (Wavefunction-based / Post-Hartree Fock)
   * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/astrophysics/blob/main/dft_scf.ipynb) (Electron-density based)
-* Full Geometric Optimization
-  * [Geometry Optimization](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb)
+* Full Geometry Optimization (iteratively finds minimum energy structure or equilibrium geometry of molecule)
+  * [Geometry Optimization](https://github.com/deltorobarba/astrophysics/blob/main/geometry_optimization.ipynb)
 
 Dynamic Calculations (Nuclear Motion is Explicitly Considered)
 * Molecular Dynamics (MD)
