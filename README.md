@@ -88,13 +88,7 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
   * [Geometry Optimization](https://github.com/deltorobarba/astrophysics/blob/main/geometry_optimization.ipynb)
 
 **Dynamic Calculations** (Nuclear Motion is Explicitly Considered)
-* **Molecular Dynamics** (MD)
-  * Ab Initio Molecular Dynamics (AIMD)
-  * Semi-Empirical Molecular Dynamics
-  * Classical Molecular Dynamics
-  * QM/MM Molecular Dynamics
-  * Coarse-Grained Molecular Dynamics
-  * Tight Binding MD
+* **Molecular Dynamics** (MD): Ab Initio Molecular Dynamics (AIMD), Semi-Empirical Molecular Dynamics, Classical Molecular Dynamics, QM/MM Molecular Dynamics, Coarse-Grained Molecular Dynamics, Tight Binding MD
 * **Path Integral Molecular Dynamics** (PIMD)
 
 **Examples**
