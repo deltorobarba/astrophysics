@@ -80,7 +80,7 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 * Post-Hartree Fock
   * [Coupled Cluster (CC)](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb)
 
-
+ffff
 * [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_spectral_analysis.ipynb)
 * [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_water_H2O.ipynb)
 * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H2.ipynb)
