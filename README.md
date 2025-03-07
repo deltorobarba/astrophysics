@@ -77,7 +77,6 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
 
 
 ## Chemistry
-Calculation of emission lines, absorption lines and vibrational frequencies of elements and molecules with [pyscf](https://pyscf.org). Calculation of ground state energies in **First Quantization** with *Single-Point Calculations* (Hartree-Fock-SCF, DFT) and *Full Geometry* for different basis sets, and in **Second Quantization**: *Single-Point calculations* based on Post-Hartree-Fock (Coupled Cluster, Møller-Plesset Perturbation, Configuration Interaction), and Quantum algorithms (Variational Quantum Eigensolver) using [openfermion](https://quantumai.google/openfermion/tutorials/intro_to_openfermion).
 
 **Static Calculations** (No Nuclear Motion Considered During the Calculation). These calculations are frequently employed to determine the ground-state energy, calculate electron densities and molecular orbitals, analyze the electronic properties of a specific molecular conformation, and optimize molecular geometries by performing numerous static calculations at slightly varied geometries to locate the lowest energy structure. 
 * **Single-Point Energy Calculations** (calculate the energy and properties at a fixed geometry)
@@ -93,7 +92,7 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 * **Molecular Dynamics** (MD): Ab Initio Molecular Dynamics (AIMD), Semi-Empirical Molecular Dynamics, Classical Molecular Dynamics, QM/MM Molecular Dynamics, Coarse-Grained Molecular Dynamics, Tight Binding MD
 * **Path Integral Molecular Dynamics** (PIMD)
 
-**Examples**
+**Examples** Calculation of emission lines, absorption lines and vibrational frequencies of elements and molecules with [pyscf](https://pyscf.org). Calculation of ground state energies in **First Quantization** with *Single-Point Calculations* (Hartree-Fock-SCF, DFT) and *Full Geometry* for different basis sets, and in **Second Quantization**: *Single-Point calculations* based on Post-Hartree-Fock (Coupled Cluster, Møller-Plesset Perturbation, Configuration Interaction), and Quantum algorithms (Variational Quantum Eigensolver) using [openfermion](https://quantumai.google/openfermion/tutorials/intro_to_openfermion).
 * [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_spectral_analysis.ipynb)
 * [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_water_H2O.ipynb)
 * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H2.ipynb)
