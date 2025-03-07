@@ -79,11 +79,11 @@ Calculation of emission lines, absorption lines and vibrational frequencies of e
 
 Static Calculations (No Nuclear Motion Considered During the Calculation)
 * Single-Point Energy Calculations: These calculate the energy and properties at a fixed geometry (foundation)
-* [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/astrophysics/blob/main/hartree_fock.ipynb) (Wavefunction-based / Hartree Fock)
-* [Coupled Cluster (CC)](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb) (Wavefunction-based / Post-Hartree Fock)
-* [Møller-Plesset Perturbation Theory (MPn)](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb)  (Wavefunction-based / Post-Hartree Fock)
-* [Configuration Interaction (CI)](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb)  (Wavefunction-based / Post-Hartree Fock)
-* [Density Functional (DFT-SCF)](https://github.com/deltorobarba/astrophysics/blob/main/dft_scf.ipynb) (Electron-density based)
+  * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/astrophysics/blob/main/hartree_fock.ipynb) (Wavefunction-based / Hartree Fock)
+  * [Coupled Cluster (CC)](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb) (Wavefunction-based / Post-Hartree Fock)
+  * [Møller-Plesset Perturbation Theory (MPn)](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb)  (Wavefunction-based / Post-Hartree Fock)
+  * [Configuration Interaction (CI)](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb)  (Wavefunction-based / Post-Hartree Fock)
+  * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/astrophysics/blob/main/dft_scf.ipynb) (Electron-density based)
 * Full Geometric Optimization
   * [Geometry Optimization](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb)
 
