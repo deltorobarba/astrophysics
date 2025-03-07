@@ -78,26 +78,26 @@ Code examples on how to pull and analyze FITS files, how to create composite RGB
 Calculation of emission lines, absorption lines and vibrational frequencies of elements and molecules with [pyscf](https://pyscf.org). Calculation of ground state energies in **First Quantization** with *Single-Point Calculations* (Hartree-Fock-SCF, DFT) and *Full Geometry* for different basis sets, and in **Second Quantization**: *Single-Point calculations* based on Post-Hartree-Fock (Coupled Cluster, Møller-Plesset Perturbation, Configuration Interaction), and Quantum algorithms (Variational Quantum Eigensolver) using [openfermion](https://quantumai.google/openfermion/tutorials/intro_to_openfermion).
 
 **Static Calculations** (No Nuclear Motion Considered During the Calculation)
-* Single-Point Energy Calculations (calculate the energy and properties at a fixed geometry)
+* **Single-Point Energy Calculations** (calculate the energy and properties at a fixed geometry)
   * [Hartree-Fock (HF-SCF)](https://github.com/deltorobarba/astrophysics/blob/main/hartree_fock.ipynb) (Wavefunction-based / Hartree Fock)
   * [Coupled Cluster (CC)](https://github.com/deltorobarba/astrophysics/blob/main/coupled_cluster.ipynb) (Wavefunction-based / Post-Hartree Fock)
   * [Møller-Plesset Perturbation Theory (MPn)](https://github.com/deltorobarba/astrophysics/blob/main/moeller_plesset.ipynb)  (Wavefunction-based / Post-Hartree Fock)
   * [Configuration Interaction (CI)](https://github.com/deltorobarba/astrophysics/blob/main/configuration_interaction.ipynb)  (Wavefunction-based / Post-Hartree Fock)
   * [Density Functional (DFT-SCF)](https://github.com/deltorobarba/astrophysics/blob/main/dft_scf.ipynb) (Electron-density based)
-* Full Geometry Optimization (iteratively finds minimum energy structure or equilibrium geometry of molecule)
+* **Full Geometry Optimization** (iteratively finds minimum energy structure or equilibrium geometry of molecule)
   * [Geometry Optimization](https://github.com/deltorobarba/astrophysics/blob/main/geometry_optimization.ipynb)
 
-Dynamic Calculations (Nuclear Motion is Explicitly Considered)
-* Molecular Dynamics (MD)
+**Dynamic Calculations** (Nuclear Motion is Explicitly Considered)
+* **Molecular Dynamics** (MD)
   * Ab Initio Molecular Dynamics (AIMD)
   * Semi-Empirical Molecular Dynamics
   * Classical Molecular Dynamics
   * QM/MM Molecular Dynamics
   * Coarse-Grained Molecular Dynamics
   * Tight Binding MD
-* Path Integral Molecular Dynamics (PIMD)
+* **Path Integral Molecular Dynamics** (PIMD)
 
-Examples
+**Examples**
 * [Spectral Analysis of Elements](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_spectral_analysis.ipynb)
 * [Water Molecule (H₂O)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_water_H2O.ipynb)
 * [Hydrogen Molecule (H₂)](https://github.com/deltorobarba/astrophysics/blob/main/chemistry_hydrogen_H2.ipynb)
